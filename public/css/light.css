@@ -1,0 +1,1028 @@
+
+
+.light {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2698px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.light .rectanglecopy {
+  background-color    : rgba(248, 248, 248, 1.0);
+  top                 : 0px;
+  height              : 2091px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectangle {
+  background-color    : rgba(205, 233, 244, 1.0);
+  top                 : 1821px;
+  height              : 37px;
+  width               : 273px;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectangle1 {
+  background-color    : rgba(205, 233, 244, 1.0);
+  top                 : 1928px;
+  height              : 37px;
+  width               : 193px;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .weboostideasinto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 284px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 92.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.light .group72 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 294px;
+  height              : 314px;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.light .group72 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 242px;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .group3 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 242px;
+  width               : 236px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 209px;
+  height              : 69px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 69px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 206px;
+  height              : 28px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 205px;
+  height              : 28px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 110px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 111px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 110px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : 111px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 85px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 85px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 101px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 113px;
+  height              : 103px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 209px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 211px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 45px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : 47px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 53px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill44 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 33px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 35px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke50 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill52 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke54 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill56 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke58 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill60 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke62 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill64 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke66 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .fill68 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 207px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group72 .stroke70 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 208px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .askboundless {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 841px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 64.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.light .overadecadeofbui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1236px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 64.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.light .ittakesmorethana {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 501px;
+  height              : auto;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.light .wevebeenbuilding {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1327px;
+  height              : auto;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.light .wevebeenbuilding .span1 {
+  line-height         : 31.0px;
+}
+.light .wevebeenbuilding .span2 {
+  font-size           : 48.0px;
+  line-height         : 58.0px;
+}
+.light .wevebeenbuilding .span3 {
+  line-height         : 31.0px;
+}
+.light .wevebeenbuilding .span4 {
+  font-size           : 48.0px;
+  line-height         : 58.0px;
+}
+.light .wevebeenbuilding .span5 {
+  line-height         : 31.0px;
+}
+.light .wevebeenbuilding .span6 {
+  line-height         : 31.0px;
+  text-decoration     : underline;
+}
+.light .wevebeenbuilding .span7 {
+  line-height         : 31.0px;
+}
+.light .wevebeenbuilding .span8 {
+  line-height         : 31.0px;
+  text-decoration     : underline;
+}
+.light .wevebeenbuilding .span9 {
+  line-height         : 31.0px;
+}
+.light .rectangle2 {
+  background-color    : rgba(61, 90, 102, 1.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectangle3 {
+  background-color    : rgba(205, 233, 244, 1.0);
+  top                 : 960px;
+  height              : 42px;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectanglecopy2 {
+  background-color    : rgba(205, 233, 244, 1.0);
+  top                 : 1014px;
+  height              : 42px;
+  width               : 433px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectanglecopy3 {
+  background-color    : rgba(205, 233, 244, 1.0);
+  top                 : 1072px;
+  height              : 42px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectanglecopy4 {
+  background-color    : rgba(205, 233, 244, 1.0);
+  top                 : 1129px;
+  height              : 42px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .venturepartnerships {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 131px;
+  height              : auto;
+  width               : 697px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(93, 93, 93, 1.0);
+  text-align          : left;
+  line-height         : 47.0px;
+}
+.light .logotop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 32px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 231px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .wheredoistartwit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 951px;
+  height              : auto;
+  width               : 676px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : left;
+  line-height         : 56.0px;
+  text-decoration     : underline;
+}
+.light .wheredoistartwit .span1 {
+  
+}
+.light .wheredoistartwit .span2 {
+  
+}
+.light .wheredoistartwit .span3 {
+  
+}
+.light .wheredoistartwit .span4 {
+  
+}
+.light .wheredoistartwit .span5 {
+  
+}
+.light .wheredoistartwit .span6 {
+  
+}
+.light .wheredoistartwit .span7 {
+  
+}
+.light .arrowback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 710px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(-90deg); /* IE 9 */
+  -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-90deg);
+}
+.light .shareyourcontacti {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2173px;
+  height              : auto;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(67, 67, 67, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.light .quoralinkedintwitt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2367px;
+  height              : auto;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(67, 67, 67, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.light .a2512018boundlesspro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2367px;
+  height              : auto;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 962px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(67, 67, 67, 1.0);
+  text-align          : right;
+  line-height         : 24.0px;
+}
+.light .yourname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2247px;
+  height              : auto;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 218px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.light .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2247px;
+  height              : auto;
+  width               : 206px;
+  position            : absolute;
+  margin              : 0;
+  left                : 497px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.light .phoneoptional {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2247px;
+  height              : auto;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 851px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.light .rectanglecopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2240px;
+  height              : 58px;
+  box-sizing          : border-box;
+  width               : 273px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(151, 151, 151, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectanglecopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2240px;
+  height              : 58px;
+  box-sizing          : border-box;
+  width               : 349px;
+  position            : absolute;
+  margin              : 0;
+  left                : 482px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(151, 151, 151, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .rectanglecopy41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2240px;
+  height              : 58px;
+  box-sizing          : border-box;
+  width               : 214px;
+  position            : absolute;
+  margin              : 0;
+  left                : 836px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(151, 151, 151, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2240px;
+  height              : 58px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1053px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group .rectanglecopy31 {
+  background-color    : rgba(67, 67, 67, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.light .group .send {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : center;
+  line-height         : 31.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

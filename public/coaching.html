@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="./img/favicon.png" rel="shortcut icon"/>
+        <meta charset="utf-8"/>
+        <meta content="width=1440, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/coaching.css" rel="stylesheet" type="text/css"/>
+        <meta content="Launchpad by Anima" name="author">
+        </meta>
+    </head>
+    <body style="margin: 0;
+ background: rgba(255, 255, 255, 1.0);">
+        <input id="anPageName" name="page" type="hidden" value="coaching"/>
+        <div class="coaching">
+            <div style="width: 1440px; height: 100%; position:relative; margin:auto;">
+                <div class="rectangle">
+                </div>
+                <div class="coachingcontent">
+                    Coaching<br />Content
+                </div>
+                <div class="boundless">
+                    BOUNDLESS
+                </div>
+                <div class="asanontechnicale">
+                    As a non-technical entrepreneur, finding a good technology partner is grueling. You have the  domain expertise and customer connections, but the tech pieces are a black box. It seems as though every technology expert you contact has a different solution and different pricing in mind, and you don't know who to trust. We're here to help. Ease your pain with our proven experience, a better relationship, and Lean methodologies that let you work your hustle to build your company right.
+                </div>
+                <div class="venturepartnerships">
+                    <a href="venturepartnerships.html">VENTURE PARTNERSHIPS</a>    
+                    <a href="coaching.html">COACHING</a>    
+                    <a href="appdevelopment.html">APP DEVEVELOPMENT</a>     
+                    <a href="home.html#wevebeenbuilding">ABOUT</a>   
+                    <a href="home.html#askboundlesscopy">ASK</a>
+                </div>                
+                <div class="rectanglecopy3">
+                </div>
+                <div class="workwithus">
+                    WORK<br />WITH US
+                </div>
+                <img anima-src="./img/venture-partnerships-line-copy-6.png" class="linecopy5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <img anima-src="./img/coaching-line-copy-7@2x.png" class="linecopy7" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="venturepartnershipscopy2">
+                    VENTURE PARTNERSHIPS     COACHING     APP DEVEVELOPMENT     ABOUT     ASK
+                </div>
+                <div class="signupforcuratedcopy">
+                    Sign up for Curated Content
+                </div>
+                <div class="joinouremailnewslcopy">
+                    Join our email newsletter and we’ll send you curated articles about being an entrepreneur.
+                </div>
+                <div class="quoralinkedintwittcopy2">
+                    Quora<br />LinkedIn<br />Twitter<br />Google+<br />Medium<br />Email
+                </div>
+                <img anima-src="./img/coaching-rectangle-copy-7@2x.png" class="rectanglecopy7" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <img anima-src="./img/home-rectangle-copy-6.png" class="rectanglecopy8" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="a2512018boundlessprocopy2">
+                    © 2018 BOUNDLESS<br />Proudly owned and operated in<br />Phoenix, Arizona<br /><br />522 North Central Ave #292<br />Phoenix, AZ 85001
+                </div>
+                <div class="yournamecopy2">
+                    Your Name
+                </div>
+                <div class="emailcopy2">
+                    Email
+                </div>
+                <div class="rectanglecopy31">
+                </div>
+                <div class="signup">
+                    SIGN UP
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+</html>

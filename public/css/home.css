@@ -1,0 +1,611 @@
+
+
+.home {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 3048px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.home .rectangle {
+  background-color    : rgba(37, 49, 53, 1.0);
+  top                 : 0px;
+  height              : 3058px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .group134copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : 289px;
+  width               : 595px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .helpingpeoplegrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 231px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 92.0px;
+  color               : rgba(255, 255, 255, 0.7);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.home .boundless {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.home .ittakesmorethana {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : 959px;
+  position            : absolute;
+  margin              : 0;
+  left                : 242px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.home .venturepartnerships {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : auto;
+  width               : 522px;
+  position            : absolute;
+  margin              : 0;
+  left                : 818px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.home .venturepartnershipscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2531px;
+  height              : auto;
+  width               : 522px;
+  position            : absolute;
+  margin              : 0;
+  left                : 628px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(66, 66, 66, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.home .askboundlesscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 780px;
+  height              : auto;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 248px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.65;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 92.0px;
+  color               : rgba(255, 255, 255, 0.7);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.home .overadecadeofbuicopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1289px;
+  height              : auto;
+  width               : 934px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 92.0px;
+  color               : rgba(255, 255, 255, 0.7);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.home .signupforcurated {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2194px;
+  height              : auto;
+  width               : 921px;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 92.0px;
+  color               : rgba(255, 255, 255, 0.7);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.home .joinouremailnewsl {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2320px;
+  height              : auto;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 240px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.home .quoralinkedintwittcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2604px;
+  height              : auto;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 246px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.home .rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2408px;
+  height              : 58px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 240px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2408px;
+  height              : 58px;
+  width               : 485px;
+  position            : absolute;
+  margin              : 0;
+  left                : 541px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .a2512018boundlessprocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2604px;
+  height              : auto;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 929px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : right;
+  line-height         : 24.0px;
+}
+.home .yournamecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2415px;
+  height              : auto;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 254px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.home .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2415px;
+  height              : auto;
+  width               : 206px;
+  position            : absolute;
+  margin              : 0;
+  left                : 558px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.home .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2408px;
+  height              : 58px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1032px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .groupcopy .rectanglecopy31 {
+  background-color    : rgba(252, 252, 252, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .groupcopy .signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : center;
+  line-height         : 31.0px;
+}
+.home .rectanglecopy3 {
+  background-color    : rgba(255, 255, 255, 0.7);
+  top                 : 250px;
+  height              : 77px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1306px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .workwithus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 261px;
+  height              : auto;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1321px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(252, 252, 252, 1.0);
+  text-align          : right;
+  line-height         : 27.0px;
+}
+.home .linecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1183px;
+  height              : 2px;
+  width               : 1221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 233px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .linecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 683px;
+  height              : 2px;
+  width               : 1372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .linecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2099px;
+  height              : 2px;
+  width               : 1221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 233px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .rectangle1 {
+  background-color    : rgba(255, 255, 255, 0.7);
+  top                 : 1007px;
+  height              : 42px;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .rectanglecopy {
+  background-color    : rgba(255, 255, 255, 0.7);
+  top                 : 951px;
+  height              : 42px;
+  width               : 458px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 0.7);
+  top                 : 895px;
+  height              : 42px;
+  width               : 331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .wevebeenbuilding {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1427px;
+  height              : auto;
+  width               : 959px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 0.8);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.home .wevebeenbuilding .span1 {
+  line-height         : 31.0px;
+}
+.home .wevebeenbuilding .span2 {
+  font-size           : 48.0px;
+  line-height         : 58.0px;
+}
+.home .wevebeenbuilding .span3 {
+  line-height         : 31.0px;
+}
+.home .wevebeenbuilding .span4 {
+  font-size           : 48.0px;
+  line-height         : 58.0px;
+}
+.home .wevebeenbuilding .span5 {
+  line-height         : 31.0px;
+}
+.home .wevebeenbuilding .span6 {
+  line-height         : 31.0px;
+  text-decoration     : underline;
+}
+.home .wevebeenbuilding .span7 {
+  line-height         : 31.0px;
+}
+.home .wevebeenbuilding .span8 {
+  line-height         : 31.0px;
+  text-decoration     : underline;
+}
+.home .wevebeenbuilding .span9 {
+  line-height         : 31.0px;
+}
+.home .wheredoistartwit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 886px;
+  height              : auto;
+  width               : 766px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(36, 48, 54, 1.0);
+  text-align          : left;
+  line-height         : 56.0px;
+  text-decoration     : underline;
+}
+.home .wheredoistartwit .span1 {
+  
+}
+.home .wheredoistartwit .span2 {
+  color               : rgba(255, 255, 255, 1.0);
+}
+.home .wheredoistartwit .span3 {
+  color               : rgba(255, 255, 255, 0.8);
+}
+.home .wheredoistartwit .span4 {
+  color               : rgba(255, 255, 255, 1.0);
+}
+.home .wheredoistartwit .span5 {
+  
+}
+.home .wheredoistartwit .span6 {
+  color               : rgba(255, 255, 255, 1.0);
+}
+.home .wheredoistartwit .span7 {
+  color               : rgba(255, 255, 255, 0.8);
+}
+.home .wheredoistartwit .span8 {
+  color               : rgba(255, 255, 255, 1.0);
+}
+.home .wheredoistartwit .span9 {
+  
+}
+.home .wheredoistartwit .span10 {
+  color               : rgba(255, 255, 255, 1.0);
+}
+.home .wheredoistartwit .span11 {
+  color               : rgba(255, 255, 255, 0.8);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
