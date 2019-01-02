@@ -2,7 +2,6 @@
   width: 100%;
   min-width: 1440px;
   height: 100vh;
-  min-height: 1599px;
   position: relative;
   overflow: hidden;
   margin: 0px;
@@ -26,7 +25,6 @@ div {
 .appdevelopment .rectangle {
   background-color: rgba(60, 3, 32, 1);
   top: 0px;
-  height: 1608px;
   width: 1440px;
   position: absolute;
   margin: 0;
@@ -93,7 +91,6 @@ div {
   width: 522px;
   position: absolute;
   margin: 0;
-  left: 818px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -404,7 +401,6 @@ div {
   width: 100%;
   min-width: 1440px;
   height: 100vh;
-  min-height: 1599px;
   position: relative;
   overflow: hidden;
   margin: 0px;
@@ -428,7 +424,6 @@ div {
 .coaching .rectangle {
   background-color: rgba(108, 72, 0, 1);
   top: 0px;
-  height: 1608px;
   width: 1440px;
   position: absolute;
   margin: 0;
@@ -495,7 +490,6 @@ div {
   width: 522px;
   position: absolute;
   margin: 0;
-  left: 818px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -908,7 +902,6 @@ div {
   width: 522px;
   position: absolute;
   margin: 0;
-  left: 818px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -1559,7 +1552,6 @@ div {
   width               : 522px;
   position            : absolute;
   margin              : 0;
-  left                : 818px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

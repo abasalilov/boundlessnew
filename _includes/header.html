@@ -5,7 +5,9 @@
       <div class="rectangle"></div>
       <div class="boundless">{{ page.lead - in }}</div>
       <div class="venturepartnerships">
-        <a href="venturepartnerships.html"> {{ page.vp1 }} </a>
+        <a href="{{ '/venturepartnerships' | prepend: site.baseurl }}">
+          {{ page.vp1 }}
+        </a>
         <a href="coaching.html"> {{ page.vp2 }} </a>
         <a href="appdevelopment.html"> {{ page.vp3 }} </a>
         <a href="#wevebeenbuilding"> {{ page.vp4 }} </a>
