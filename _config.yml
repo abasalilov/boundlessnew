@@ -67,3 +67,5 @@ address:
 - line: Beverly Hills, CA 90210
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-time-machine
