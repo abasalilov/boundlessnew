@@ -5,8 +5,11 @@
       <div class="rectangle"></div>
       <div class="boundless">{{ page.lead - in }}</div>
       <div class="venturepartnerships">
-        {{ page.vp1 }} {{ page.vp2 }} {{ page.vp3 }} {{ page.vp4 }}
-        {{ page.vp5 }}
+        <a href="venturepartnerships.html"> {{ page.vp1 }} </a>
+        <a href="coaching.html"> {{ page.vp2 }} </a>
+        <a href="appdevelopment.html"> {{ page.vp3 }} </a>
+        <a href="#wevebeenbuilding"> {{ page.vp4 }} </a>
+        <a href="venturepartnerships.html"> {{ page.vp5 }} </a>
       </div>
     </div>
   </div>
@@ -18,4 +21,5 @@
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
+        
  -->
