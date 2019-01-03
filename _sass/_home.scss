@@ -1,6 +1,17 @@
+@font-face {
+  font-family: "BarlowCondensed-SemiBold";
+  src: url("../fonts/BarlowCondensed-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "BarlowCondensed-Regular";
+  src: url("../fonts/BarlowCondensed-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "BarlowCondensed-Bold";
+  src: url("../fonts/BarlowCondensed-Bold.ttf") format("truetype");
+}
+
 .home {
-  width: 100%;
-  min-width: 1200px;
   height: 100vh;
   min-height: 3048px;
   position: relative;
@@ -17,47 +28,62 @@ div {
 
 .home .rectangle {
   background-color: rgba(37, 49, 53, 1);
-  top: calc(0% - 5px);
-  height: calc(100% + 10px);
+  top: 0px;
+  height: 3058px;
   width: 100%;
   position: absolute;
   margin: 0;
-  left: 0%;
+  left: 0px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
 .home .group134copy {
   background-color: rgba(255, 255, 255, 0);
-  top: calc(0% + 396px);
+  top: 396px;
   height: 289px;
-  width: calc(100% - 845px);
+  width: 595px;
   position: absolute;
   margin: 0;
-  left: calc(0% + 27px);
+  left: 27px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-
 .home .helpingpeoplegrow {
   background-color: rgba(255, 255, 255, 0);
   top: calc(0% + 231px);
   height: auto;
-  width: 100%;
+  width: calc(100% - 405px);
   position: absolute;
   margin: 0;
   left: calc(0% + 236px);
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important !important;
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
   line-height: 90px;
 }
-
+.home .boundless {
+  background-color: rgba(255, 255, 255, 0);
+  top: 41px;
+  height: auto;
+  width: auto;
+  position: absolute;
+  margin: 0;
+  left: 114px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 48px;
+  color: rgba(252, 252, 252, 1);
+  text-align: left;
+  line-height: 90px;
+}
 .home .ittakesmorethana {
   background-color: rgba(255, 255, 255, 0);
   top: calc(0% + 440px);
@@ -69,18 +95,34 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
   line-height: 31px;
 }
-
+.home .venturepartnerships {
+  background-color: rgba(255, 255, 255, 0);
+  top: 71px;
+  height: auto;
+  width: 522px;
+  position: absolute;
+  margin: 0;
+  left: 818px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 18px;
+  color: rgba(66, 66, 66, 1);
+  text-align: right;
+  line-height: 22px;
+}
 .home .askboundlesscopy {
   background-color: rgba(255, 255, 255, 0);
   top: 780px;
   height: auto;
-  width: auto;
+  width: calc(100% - 938px);
   position: absolute;
   margin: 0;
   left: calc(0% + 248px);
@@ -88,7 +130,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   opacity: 0.65;
-  font-family: "Barlow Condensed", sans-serif !important;
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -98,13 +140,14 @@ div {
   background-color: rgba(255, 255, 255, 0);
   top: 1289px;
   height: auto;
+  width: calc(100% - 506px);
   position: absolute;
   margin: 0;
   left: calc(0% + 243px);
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -112,7 +155,7 @@ div {
 }
 .home .signupforcurated {
   background-color: rgba(255, 255, 255, 0);
-  bottom: calc(0% + 736px);
+  top: 2194px;
   height: auto;
   width: calc(100% - 521px);
   position: absolute;
@@ -121,7 +164,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -129,7 +172,7 @@ div {
 }
 .home .joinouremailnewsl {
   background-color: rgba(255, 255, 255, 0);
-  bottom: calc(0% + 661px);
+  top: 2320px;
   height: auto;
   width: calc(100% - 632px);
   position: absolute;
@@ -138,17 +181,18 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
   line-height: 31px;
 }
+
 .home .rectanglecopy5 {
   background-color: rgba(255, 255, 255, 0);
   bottom: calc(0% + 582px);
   height: 58px;
-  width: calc(100% - 1190px);
+  width: 18%;
   position: absolute;
   margin: 0;
   left: calc(0% + 240px);
@@ -157,10 +201,10 @@ div {
   transform: rotate(0deg);
 }
 .home .rectanglecopy6 {
-  background-color: transparent;
+  background-color: rgba(255, 255, 255, 0);
   bottom: calc(0% + 582px);
   height: 58px;
-  width: calc(100% - 990px);
+  width: 30%;
   position: absolute;
   margin: 0;
   left: calc(0% + 541px);
@@ -169,10 +213,56 @@ div {
   transform: rotate(0deg);
 }
 
+.home .yournamecopy {
+  background-color: rgba(255, 255, 255, 0);
+  top: 2415px;
+  height: auto;
+  width: 162px;
+  position: absolute;
+  margin: 0;
+  left: 254px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+}
+.home .email {
+  background-color: rgba(255, 255, 255, 0);
+  top: 2415px;
+  height: auto;
+  width: 206px;
+  position: absolute;
+  margin: 0;
+  left: 558px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+}
+.home .groupcopy {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 582px);
+  height: 58px;
+  width: calc(100% - 1317px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 1032px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
 .home .groupcopy .rectanglecopy31 {
   background-color: rgba(252, 252, 252, 1);
   top: 0px;
-  height: 60px;
+  height: 58px;
   width: 123px;
   position: absolute;
   margin: 0;
@@ -183,6 +273,7 @@ div {
 }
 .home .groupcopy .signup {
   background-color: rgba(255, 255, 255, 0);
+  top: 8px;
   height: auto;
   width: 99px;
   position: absolute;
@@ -191,21 +282,49 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important !important;
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 26px;
   color: #273135;
   text-align: center;
   line-height: 31px;
 }
-
+.home .rectanglecopy3 {
+  background-color: rgba(255, 255, 255, 0.7);
+  top: calc(0% + 300px);
+  height: 77px;
+  width: 135px;
+  position: fixed;
+  margin: 0;
+  left: calc(100% - 135px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.home .workwithus {
+  background-color: rgba(255, 255, 255, 0);
+  top: calc(0% + 310px);
+  height: auto;
+  width: 85px;
+  position: fixed;
+  margin: 0;
+  left: calc(100% - 115px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(252, 252, 252, 1);
+  text-align: right;
+  line-height: 27px;
+}
 .home .linecopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1183px;
   height: 2px;
-  width: calc(100% - 221px);
+  width: 1221px;
   position: absolute;
   margin: 0;
-  left: calc(0% + 234px);
+  left: 233px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -214,10 +333,10 @@ div {
   background-color: rgba(255, 255, 255, 0);
   top: 683px;
   height: 2px;
-  width: calc(100% - 68px);
+  width: 1372px;
   position: absolute;
   margin: 0;
-  left: calc(0% + 82px);
+  left: 82px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -226,28 +345,50 @@ div {
   background-color: rgba(255, 255, 255, 0);
   top: 2099px;
   height: 2px;
-  width: calc(100% - 221px);
+  width: 1221px;
   position: absolute;
   margin: 0;
-  left: calc(0% + 234px);
+  left: 233px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-
-.rectangleblogtitle {
+.home .rectangle1 {
+  background-color: rgba(255, 255, 255, 0.7);
+  top: 1007px;
+  height: 42px;
+  width: 240px;
+  position: absolute;
+  margin: 0;
+  left: 249px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.home .rectanglecopy {
+  background-color: rgba(255, 255, 255, 0.7);
+  top: 951px;
+  height: 42px;
+  width: 458px;
+  position: absolute;
+  margin: 0;
+  left: 249px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.home .rectanglecopy2 {
   background-color: rgba(255, 255, 255, 0.7);
   top: 895px;
   height: 42px;
-  width: calc(100% - 990px);
+  width: 331px;
   position: absolute;
   margin: 0;
-  left: calc(0% + 249px);
+  left: 249px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-
 .home .wevebeenbuilding {
   background-color: rgba(255, 255, 255, 0);
   top: 1427px;
@@ -259,7 +400,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -269,6 +410,7 @@ div {
   line-height: 31px;
 }
 .home .wevebeenbuilding .span2 {
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 48px;
   line-height: 58px;
 }
@@ -276,6 +418,7 @@ div {
   line-height: 31px;
 }
 .home .wevebeenbuilding .span4 {
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 48px;
   line-height: 58px;
 }
@@ -283,6 +426,7 @@ div {
   line-height: 31px;
 }
 .home .wevebeenbuilding .span6 {
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   line-height: 31px;
   text-decoration: underline;
 }
@@ -290,6 +434,7 @@ div {
   line-height: 31px;
 }
 .home .wevebeenbuilding .span8 {
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   line-height: 31px;
   text-decoration: underline;
 }
@@ -303,11 +448,90 @@ div {
   width: calc(100% - 676px);
   position: absolute;
   margin: 0;
-  left: calc(0% + 248px);
+  left: calc(0% + 258px);
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
   font-size: 26px;
+  color: rgba(36, 48, 54, 1);
   text-align: left;
   line-height: 56px;
+  text-decoration: underline;
+}
+.home .wheredoistartwit .span1 {
+}
+.home .wheredoistartwit .span2 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 1);
+}
+.home .wheredoistartwit .span3 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 15px;
+}
+.home .wheredoistartwit .span4 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 1);
+}
+.home .wheredoistartwit .span5 {
+}
+.home .wheredoistartwit .span6 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 1);
+}
+.home .wheredoistartwit .span7 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 15px;
+}
+.home .wheredoistartwit .span8 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 1);
+}
+.home .wheredoistartwit .span9 {
+}
+.home .wheredoistartwit .span10 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 1);
+}
+.home .wheredoistartwit .span11 {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 15px;
+}
+
+.home .venturepartnershipscopy {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 474px);
+  height: auto;
+  width: calc(100% - 920px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 630px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 18px;
+  color: rgba(66, 66, 66, 1);
+  text-align: right;
+  line-height: 22px;
+}
+.home .quoralinkedintwittcopy {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 263px);
+  height: auto;
+  width: calc(100% - 1221px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 246px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 24px;
 }

@@ -1,7 +1,6 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
   <!-- Plain Description -->
   <title>
     {% if page.title %}{{ page.title }} | {% endif %}{{
@@ -12,7 +11,10 @@
   <link rel="icon" type="image/png" href={{
     "/favicon.png" | prepend: site.baseurl
   }}>
-
+  <!-- CSS -->
+  <link rel="stylesheet" href={{
+    "/css/style.css" | prepend: site.baseurl
+  }}>
   <!-- RSS stuff -->
   <link
     rel="canonical"
@@ -23,9 +25,4 @@
   }}" href="{{
     "/feed.xml" | prepend: site.baseurl | prepend: site.url
   }}" />
-
-  <!-- CSS -->
-  <link rel="stylesheet" href={{
-    "/css/style.css" | prepend: site.baseurl
-  }}>
 </head>
