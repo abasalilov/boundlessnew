@@ -1,8 +1,10 @@
-camp.siteleaf.net
-=================
+# boundless
 
-Example Siteleaf v2 site based on [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme) by @y7kim.
+1. Install the bundle:
 
+   - gem install bundler
+   - bundle install
 
-=========
-For more details, see [siteleaf.com](http://www.siteleaf.com)
+2. Serve
+
+   - bundle exec jekyll serve

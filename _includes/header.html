@@ -1,27 +1,30 @@
-<!-- Navigation -->
-<nav>
-  <div class="home">
-    <div style="width: 1440px; position:relative; margin:auto;">
-      <div class="rectangle"></div>
-      <div class="boundless">{{ page.lead - in }}</div>
-      <div class="venturepartnerships">
-        <a href="{{ '/venturepartnerships/' | prepend: site.baseurl }}">
-          {{ page.vp1 }}
+<header class="site-header" role="banner">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="large-2 cell">
+        <a class="logo" href="/">
+          <img src="{{ "assets/boundless/img/logo.png" | relative_url }}" alt="Boundless" />
         </a>
-        <a href="coaching.html"> {{ page.vp2 }} </a>
-        <a href="appdevelopment.html"> {{ page.vp3 }} </a>
-        <a href="#wevebeenbuilding"> {{ page.vp4 }} </a>
-        <a href="venturepartnerships.html"> {{ page.vp5 }} </a>
+      </div>
+      <div class="large-10 cell">
+        <ul class="menu">
+          <li>
+            <a href="/venture-partners">Venture Partnerships</a>
+          </li>
+          <li>
+            <a href="/consulting">Coaching</a>
+          </li>
+          <li>
+            <a href="/development">App Development</a>
+          </li>
+          <li>
+            <a href="/about">About</a>
+          </li>
+          <li>
+            <a href="/ask">Ask</a>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
-  <!-- /.container-fluid -->
-</nav>
-
-<!-- Header -->
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
-        
- -->
+</header>
