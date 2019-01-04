@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 59bae0
+  secondary: baccd3
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  primary: '"Barlow Condensed"'
+  secondary: '"Barlow Condensed"'
