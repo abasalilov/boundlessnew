@@ -9,6 +9,13 @@ layout: default
 <div class="rectangle"></div>
 <div class="coachingcontent">Coaching<br />Content</div>
 <div class="boundless">BOUNDLESS</div>
+    <div class="venturepartnerships">
+      <a href="/venture-partners">VENTURE PARTNERSHIPS</a>
+      <a href="/coaching">COACHING</a>
+      <a href="/appdevelopment">APP DEVEVELOPMENT</a>
+      <a href="/home#wevebeenbuilding">ABOUT</a>
+      <a href="/home#askboundlesscopy">ASK</a>
+    </div>
 <div class="asanontechnicale">
 As a non-technical entrepreneur, finding a good technology partner is
 grueling. You have the  domain expertise and customer connections, but the
@@ -17,13 +24,6 @@ you contact has a different solution and different pricing in mind, and
 you don't know who to trust. We're here to help. Ease your pain with our
 proven experience, a better relationship, and Lean methodologies that let
 you work your hustle to build your company right.
-</div>
-<div class="venturepartnerships">
-<a href="/venture-partners">VENTURE PARTNERSHIPS</a>
-<a href="coaching">COACHING</a>
-<a href="appdevelopment">APP DEVEVELOPMENT</a>
-<a href="home.html#wevebeenbuilding">ABOUT</a>
-<a href="home.html#askboundlesscopy">ASK</a>
 </div>
 <div class="rectanglecopy3"></div>
 <div class="workwithus">WORK<br />WITH US</div>

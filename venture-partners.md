@@ -24,11 +24,11 @@ proven experience, a better relationship, and Lean methodologies that let
 you work your hustle to build your company right.
 </div>
 <div class="venturepartnerships1">
-<a href="venture-partners">VENTURE PARTNERSHIPS</a>
-<a href="coaching">COACHING</a>
-<a href="appdevelopment">APP DEVEVELOPMENT</a>
-<a href="home#wevebeenbuilding">ABOUT</a>
-<a href="home#askboundlesscopy">ASK</a>
+<a href="/venture-partners">VENTURE PARTNERSHIPS</a>
+<a href="/coaching">COACHING</a>
+<a href="/development">APP DEVELOPMENT</a>
+<a href="/home#wevebeenbuilding">ABOUT</a>
+<a href="/home#askboundlesscopy">ASK</a>
 </div>
 <div class="rectanglecopy3"></div>
 <div class="workwithus">WORK<br />WITH US</div>
