@@ -1,27 +1,15 @@
-<!-- Navigation -->
-<nav>
-  <div class="home">
-    <div style="width: 1440px; position:relative; margin:auto;">
+<header class="site-header" role="banner">
+  <div class="headerNav">
+    <div style="position:relative; margin:auto;">
       <div class="rectangle"></div>
-      <div class="boundless">{{ page.lead - in }}</div>
+      <div class="boundless">BOUNDLESS</div>
       <div class="venturepartnerships">
-        <a href="{{ '/venturepartnerships/' | prepend: site.baseurl }}">
-          {{ page.vp1 }}
-        </a>
-        <a href="coaching.html"> {{ page.vp2 }} </a>
-        <a href="appdevelopment.html"> {{ page.vp3 }} </a>
-        <a href="#wevebeenbuilding"> {{ page.vp4 }} </a>
-        <a href="venturepartnerships.html"> {{ page.vp5 }} </a>
+        <a href="/venture-partners">VENTURE PARTNERSHIPS</a>
+        <a href="/coaching">COACHING</a>
+        <a href="/development">APP DEVELOPMENT</a>
+        <a href="/#wevebeenbuilding">ABOUT</a>
+        <a href="/#askboundlesscopy">ASK</a>
       </div>
     </div>
   </div>
-  <!-- /.container-fluid -->
-</nav>
-
-<!-- Header -->
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
-        
- -->
+</header>

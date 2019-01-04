@@ -1,25 +1,53 @@
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} 2016</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+<footer class="site-footer">
+  <div id="fixed-contact" class="fixed-contact">
+    <i class="fas fa-envelope"></i>
+  </div>
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="large-4 cell">
+        <address>
+          <strong>BOUNDLESS</strong><br />
+          522 North Central Ave #292<br />
+          Phoenix, AZ 85001<br />
+        </address>
+      </div>
+      <div class="large-4 cell text-center">
+        <a href="#" class="contact">Click here to contact us</a>
+        <ul class="social">
+          <li>
+            <a href="https://www.quora.com/profile/Paul-Keck"
+              ><i class="fab fa-quora"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/company/2311243/admin/updates/"
+              ><i class="fab fa-linkedin-in"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://create-awesome.com/"
+              ><i class="fab fa-medium-m"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://twitter.com/GetBoundless"
+              ><i class="fab fa-twitter"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://plus.google.com/+Getboundless"
+              ><i class="fab fa-google-plus-g"></i
+            ></a>
+          </li>
+        </ul>
+      </div>
+      <div class="large-4 cell text-right">
+        <div class="owned-container">
+          &copy; 2018 BOUNDLESS<br />
+          Proudly owned and<br />
+          operated in Phoenix, AZ
         </div>
-    </footer>
+      </div>
+    </div>
+  </div>
+</footer>
