@@ -12,9 +12,9 @@ layout: default
     <div class="venturepartnerships">
       <a href="/venture-partners">VENTURE PARTNERSHIPS</a>
       <a href="/coaching">COACHING</a>
-      <a href="/appdevelopment">APP DEVEVELOPMENT</a>
-      <a href="/home#wevebeenbuilding">ABOUT</a>
-      <a href="/home#askboundlesscopy">ASK</a>
+      <a href="/development">APP DEVEVELOPMENT</a>
+      <a href="#wevebeenbuilding">ABOUT</a>
+      <a href="#askboundlesscopy">ASK</a>
     </div>
 <div class="asanontechnicale">
 As a non-technical entrepreneur, finding a good technology partner is
