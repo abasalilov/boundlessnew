@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: default
 permalink: "/"
+layout: default
 ---
 
 <div class="home">
