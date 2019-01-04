@@ -525,65 +525,6 @@ div {
 .home .wheredoistartwit .span11 {
   color: rgba(255, 255, 255, 0.8);
 }
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity: 0;
-  display: block;
-  -webkit-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity: 1;
-  display: block;
-  -webkit-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay: 0;
-  animation-delay: 0;
-}
-@-webkit-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@-o-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
 
 .coaching {
   width: 100%;
@@ -911,65 +852,7 @@ div {
   text-align: center;
   line-height: 31px;
 }
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity: 0;
-  display: block;
-  -webkit-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity: 1;
-  display: block;
-  -webkit-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay: 0;
-  animation-delay: 0;
-}
-@-webkit-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
 
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@-o-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
 
 .venturepartnerships {
   width: 100%;
@@ -1687,65 +1570,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity: 0;
-  display: block;
-  -webkit-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity: 1;
-  display: block;
-  -webkit-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay: 0;
-  animation-delay: 0;
-}
-@-webkit-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
 
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@-o-keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-@keyframes anima-reveal {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
 
 .venturepartnerships {
   width: 100%;

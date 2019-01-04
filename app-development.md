@@ -4,61 +4,235 @@ permalink: "/development/"
 layout: default
 ---
 
-<div class="wrapper development">
-<div class="grid-container">
-<div class="grid-x grid-padding-x">
-<div class="large-9 cell">
-<h1>
-Have fun and<br/> { create : awesome }
-</h1>
-<p class="jumbo">
-We've been doing this a long time, and we know that finding the right people to work with is a top priority. One of the criteria we use to make sure our clients and partners are a good fit concerns our development process. When everyone is aligned with Lean App Development processes, we don't have to sweat the details. It lets everyone have a little fun and { create : awesome }
-</p>
-<h2>Lean App Development for 2018</h2>
-<p>
-These days, it's easy to start a business, and affordable resources have never been more plentiful. This also makes building a feature-packed app that everyone will surely use and love very tempting. But this is the opposite of what successful companies do. Young technology companies succeed when they build the <strong>right pieces</strong> of their web & mobile apps at the <strong>right time</strong> for the <strong>right people</strong>. Accomplish this with your Lean MVP, and position your budding company for success.
-</p>\
-<h2>Get Started Quickly With an MVP</h2>
-<p>
-Many entrepreneurs don't know how to get started. They plan and design for too long, and miss the opportunity to build what their customers really want.
-</p>\
-<p>
-One of the most difficult things to do with web & mobile apps is taking that first step - a lot of information needs to be organized and documented, right? As it turns out, the most effective thing to do when getting started is to throw out all the details! Focus on the one or two things that are most important, and set a goal for your vision. What's the most important problem we are solving with the app and for whom? Distilling a project down to those two things is a bit more difficult than it sounds. We love to imagine all the great things our app will do, but that's where our experience really helps. As a vigilant partner, we’ll keep the short and long-term goals grounded, and get things moving quickly with your MVP.
-</p>
-<h2>Better Planning and Better Execution</h2>
-<p>
-Every development company has a similar process they use to build web & mobile apps, and you might even be tired of reading the same regurgitated stuff on other websites. The other app developer's process usually involves discussions up-front to “get everyone on the same page”, and a number of iterations with milestones to “make sure it’s right”. What other development companies don’t tell you is that this iterative approach doesn’t work when contracts dictate both scope and price together. In this type of environment, development companies are forced to make the contract work by cutting corners and distorting the original intent of poorly-written requirements where necessary. Of course there are plenty of good old-fashioned communication & management blunders too, and many app developers even reduce management hours to pump up profit margins while technically meeting the scope requirements.
-</p>
-<p>
-This antiquated method for contract negotiation and management is garbage, so we refuse to do it.
-</p>
-<h3>Enter the flat fee approach.</h3>\
-<p>
-Our contracts are based on a fixed time commitment instead of a fixed scope of work. This key difference allows our clients to enjoy a fixed price, while we are free to focus on discovering and building the components that will make web & mobile apps successful. There is an art to accomplishing this, and it involves a blend of marketing (graphic & information design), architecture (technical design), and requirements (business design). We define and prioritize features based on information from target customers, and it’s OK if things change over time. Features are evaluated and re-prioritized on a weekly basis as we build and play with the app. This arrangement is much more in-tune with the way companies develop their web and mobile apps internally, and it avoids the strain of the separate agendas outlined in the previous section.
-</p>
-<h3>We’re pretty good at identifying what’s important.</h3>\
-<p>
-Through experience, we know that tech companies evolve at different paces, and the web or mobile apps they build cost a wide range of prices depending on complexities. However, we also know that all apps can start out the same way in the beginning. Every startup can produce a minimum viable product (MVP) that solves the most important problems for their most important customers. This allows us to use the same flat fee structure for all projects, further standardizing the process for new applications. To do this, we base the first version of a web or mobile app on a fixed number of days for planning, design, build, & launch. We’ve gotten pretty good at identifying what’s important, as well as what isn’t important for each startup. Working with a flat fee allows us to be very agile week-to-week, and we can eliminate excess overhead and frustration associated with the other guy’s contracts.
-</p>
-<h2>Cross-Platform Technology is Better</h2>
-<p>
-At Boundless, we have experience with systems of all kinds, ranging from old-school embedded systems, through Windows desktop applications, to web & mobile apps.
-</p>\
-<img src="/assets/boundless/img/cross-platform-tech.png" alt="Cross Platform Technology">
-<p>
-All this experience allows us to sift through the various technology pros & cons, and make choices based on what we feel is the best for our clients. With startups in mind, we've chosen JavaScript, specifically NodeJS, ReactJS and React Native. Using cross-platform technologies is key for bootstrapping companies looking to manage development costs, but it also makes a lot of sense for anyone building from the ground up. Not only does building this way cost less, but it's faster and easier to make changes and iterate. The advantages we see with these technologies are pretty overwhelming.
-</p>\
-<h3>Launch Your App & Start Your Journey</h3>
-<p>
-Customer-driven development processes mean a good portion of time is spent on customer needs throughout, and launch preparation for real users near the end. Creating the right parts of your app and making sure they work well is terribly important for your startup. The MVP development process discourages over-engineering and the tendency to do it all right away, keeping efforts grounded in reality with customer validation. Our goal does not stop with fulfilling requirements in a contract, and we make sure the company we help you create doesn’t fall victim to the high failure rate. Our mission is to lay the foundation for your app's success and confirm that the app is viable.
-</p>
-<p>
-There is a significant difference between just building an app, and building a company around an app.
-</p>\
-<p>
-The Principals at Boundless have been designing and developing software systems, user interfaces, and applications of all kinds in Phoenix, Arizona for over 20 years. All this experience makes a big difference when creating a web or mobile app for your startup. There are many subtle things to keep in mind that other companies and developers either overlook or honestly don't care about because it takes more time and effort. With Boundless, your app is designed and developed with an organic process and a high degree of communication because that is the only way it works. Whatever your goals for your mobile app or web app, we can handle the challenge.
-</p>
+<div class="venturepartnerships">
+<div style="width: 1440px; height: 100%; position:relative; margin:auto;">
+<div class="rectangle"></div>
+<div class="rectangle1"></div>
+<div class="rectanglecopy"></div>
+<div class="putsomeexperienced">
+Put some experienced<br />muscle behind your hustle.
 </div>
+<div class="aventurepartnershi">A Venture Partnership Is</div>
+<div class="ourventurepartners">Our Venture Partnerships</div>
+<div class="boundless">BOUNDLESS</div>
+<div class="asanontechnicale">
+      As a non-technical entrepreneur, finding a good technology partner is
+      grueling. You have the  domain expertise and customer connections, but the
+      tech pieces are a black box. It seems as though every technology expert
+      you contact has a different solution and different pricing in mind, and
+      you don't know who to trust. We're here to help. Ease your pain with our
+      proven experience, a better relationship, and Lean methodologies that let
+      you work your hustle to build your company right.
 </div>
+<div class="venturepartnerships1">
+<a href="venturepartnerships.html">VENTURE PARTNERSHIPS</a>
+<a href="coaching.html">COACHING</a>
+<a href="appdevelopment.html">APP DEVEVELOPMENT</a>
+<a href="home.html#wevebeenbuilding">ABOUT</a>
+<a href="home.html#askboundlesscopy">ASK</a>
 </div>
+<div class="rectanglecopy3"></div>
+<div class="workwithus">WORK<br />WITH US</div>
+<div class="aventurepartnershi1">
+  A venture partnership is our term for an early-stage company that enters
+  into a partnership with us to build a technology company. We all invest
+  effort, cash, or both while sharing company equity to create an amazing
+  product together. We use a simple operating agreement to govern the
+  relationship, and we offer equity buy-back guarantees to make sure
+  founders get to keep the lion's share of equity in their pocket.<br /><br />We
+  like the term venture partnership when compared with "ventures" or
+  "partners". We're not professional investors offering convertible notes or
+  SAFE agreements like venture firms. Nor are we service providers that
+  over-use the term partner to describe work-for-hire relationships.
+  Instead, we invest time &amp; money while sharing risk with company
+  founders to become true partners in a business venture. In doing so, we
+  provide the tech and business experience, and we leverage founder
+  connections and hustle to get a win for everyone.<br /><br />Although we
+  use the term technology company, the core competence of our venture
+  partners is typically something other than technology. Coupled with our
+  deep experience, that core competence is what makes the new business
+  likely to succeed. Technology plays a major role as well, but our partners
+  have the industry experience and customer connections to build the right
+  stuff and drive growth. That's why we need our venture partners to be
+  successful, and why they need us. It just works for everyone.
+</div>
+<div class="aventurepartnershi2">
+  A venture partnership is our term for an early-stage company that enters
+  into a partnership with us to build a technology company. We all invest
+  effort, cash, or both while sharing company equity to create an amazing
+  product together. We use a simple operating agreement to govern the
+  relationship, and we offer equity buy-back guarantees to make sure
+  founders get to keep the lion's share of equity in their pocket.
+</div>
+<div class="thefoundersofslp">
+  The founders of SLP Toolkit came to us with an idea. Their app would allow
+  school-based speech language pathologists to better manage their time and
+  improve the quality of their services. SLP Toolkit allows you to be the
+  very best version of you. This core purpose centered around improving
+  efficiency was the catalyst for a great app. "Be your /best/" is the
+  mantra of this web app that is transforming the work day for SLP's
+  everywhere.<br /><br />This didn't happen all at once. With the help of
+  our technology and business experience, the founders of SLP Toolkit have
+  worked tirelessly to promote the company, get feedback, and validate their
+  ideas. The result was a successful launch, over 10K user signups, and over
+  3K paying customers in just a few years. The idea has turned into a
+  thriving and sustainable company which is already making a positive impact
+  on the local economy, and on your school's SLPs too!
+</div>
+<div class="thefoundersofpart">
+  The founders of Parts Detect wanted to make life easier for mechanics. The
+  app allows automotive repair professionals and enthusiasts to find
+  aftermarket and OEM parts within seconds. Just scan the vehicle's VIN
+  barcode and search on a part to see location, warranty, and availability
+  from different venders. The app eliminates time-consuming searches and
+  vehicle matching by automating the end-to-end process.<br /><br />However,
+  uniting large part vendors in this fractured industry to display inventory
+  in a good way posed a daunting technical challenge. There is no standard
+  to match parts with vehicle year/make/model, and each vendor has it's own
+  search interface, so integration of multiple sources is a challenge to say
+  the least. With our experienced guidance to stand on, the Parts Detect
+  founders have successfully on-boarded three major national vendors with
+  more in the works. Over 750 mechanics have signed up to give the app a
+  whirl, and the system processes over $6K worth of orders each month as we
+  roll through pilot testing. Good things are around the corner as we grow
+  this app!
+</div>
+<img
+  anima-src="./img/venture-partnerships-line-copy-6.png"
+  class="linecopy5"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<img
+  anima-src="./img/venture-partnerships-line-copy-6.png"
+  class="linecopy8"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<img
+  anima-src="./img/venture-partnerships-bitmap.png"
+  class="bitmap"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<img
+  anima-src="./img/venture-partnerships-line-copy-7@2x.png"
+  class="linecopy7"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<img
+  anima-src="./img/venture-partnerships-line-copy-6.png"
+  class="linecopy6"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<div class="venturepartnershipscopy2">
+  VENTURE PARTNERSHIPS     COACHING     APP DEVEVELOPMENT     ABOUT     ASK
+</div>
+<div class="signupforcuratedcopy">Sign up for Curated Content</div>
+<div class="joinouremailnewslcopy">
+  Join our email newsletter and we’ll send you curated articles about being
+  an entrepreneur.
+</div>
+<div class="quoralinkedintwittcopy2">
+  Quora<br />LinkedIn<br />Twitter<br />Google+<br />Medium<br />Email
+</div>
+<img
+  anima-src="./img/coaching-rectangle-copy-7@2x.png"
+  class="rectanglecopy7"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<img
+  anima-src="./img/home-rectangle-copy-6.png"
+  class="rectanglecopy8"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+<div class="a2512018boundlessprocopy2">
+  © 2018 BOUNDLESS<br />Proudly owned and operated in<br />Phoenix,
+  Arizona<br /><br />522 North Central Ave #292<br />Phoenix, AZ 85001
+</div>
+<div class="yournamecopy2">Your Name</div>
+<div class="emailcopy2">Email</div>
+<div class="groupcopy2">
+  <div class="rectanglecopy31"></div>
+  <div class="signup">SIGN UP</div>
+</div>
+<div class="group33">
+  <img
+anima-src="./img/venture-partnerships-fill-1@2x.png"
+class="fill1"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <div class="group5">
+<img
+  anima-src="./img/venture-partnerships-group-5@2x.png"
+  class="group51"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+  </div>
+  <div class="group8">
+<img
+  anima-src="./img/venture-partnerships-group-8@2x.png"
+  class="group81"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+/>
+  </div>
+  <img
+anima-src="./img/venture-partnerships-fill-9@2x.png"
+class="fill9"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-11@2x.png"
+class="fill11"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-13@2x.png"
+class="fill13"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-15@2x.png"
+class="fill15"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-17@2x.png"
+class="fill17"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-19@2x.png"
+class="fill19"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-21@2x.png"
+class="fill21"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-23@2x.png"
+class="fill23"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-25@2x.png"
+class="fill25"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-27@2x.png"
+class="fill27"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-29@2x.png"
+class="fill29"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+  <img
+anima-src="./img/venture-partnerships-fill-31@2x.png"
+class="fill31"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  />
+</div>
+  </div>
 </div>
