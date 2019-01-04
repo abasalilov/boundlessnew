@@ -28,7 +28,7 @@ you work your hustle to build your company right.
 <a href="/venture-partners">VENTURE PARTNERSHIPS</a>
 <a href="/coaching">COACHING</a>
 <a href="/development">APP DEVELOPMENT</a>
-<a href="#wevebeenbuilding">ABOUT</a> <a href="#askboundlesscopy">ASK</a>
+<a href="/#wevebeenbuilding">ABOUT</a> <a href="/#askboundlesscopy">ASK</a>
 </div>
 <div class="rectanglecopy3"></div>
 <div class="workwithus">WORK<br />WITH US</div>
@@ -96,31 +96,11 @@ whirl, and the system processes over $6K worth of orders each month as we
 roll through pilot testing. Good things are around the corner as we grow
 this app!
 </div>
-<img
-anima-src="./img/venture-partnerships-line-copy-6.png"
-class="linecopy5"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-<img
-anima-src="./img/venture-partnerships-line-copy-6.png"
-class="linecopy8"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-<img
-anima-src="./img/venture-partnerships-bitmap.png"
-class="bitmap"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-<img
-anima-src="./img/venture-partnerships-line-copy-7@2x.png"
-class="linecopy7"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-<img
-anima-src="./img/venture-partnerships-line-copy-6.png"
-class="linecopy6"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
+<img src="../img/venture-partnerships-line-copy-6.png" class="linecopy5" />
+<img src="../img/venture-partnerships-line-copy-6.png" class="linecopy8" />
+<img src="../img/venture-partnerships-bitmap.png" class="bitmap" />
+<img src="../img/venture-partnerships-line-copy-7@2x.png" class="linecopy7" />
+<img src="../img/venture-partnerships-line-copy-6.png" class="linecopy6" />
 <div class="venturepartnershipscopy2">
 VENTURE PARTNERSHIPS COACHING APP DEVEVELOPMENT ABOUT ASK
 </div>
@@ -132,15 +112,9 @@ an entrepreneur.
 <div class="quoralinkedintwittcopy2">
 Quora<br />LinkedIn<br />Twitter<br />Google+<br />Medium<br />Email
 </div>
-<img
-anima-src="./img/coaching-rectangle-copy-7@2x.png"
-class="rectanglecopy7"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+<img src="../img/coaching-rectangle-copy-7@2x.png" class="rectanglecopy7"
 />
-<img
-anima-src="./img/home-rectangle-copy-6.png"
-class="rectanglecopy8"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+<img src="../img/home-rectangle-copy-6.png" class="rectanglecopy8"
 />
 <div class="a2512018boundlessprocopy2">
 © 2018 BOUNDLESS<br />Proudly owned and operated in<br />Phoenix,
@@ -153,84 +127,26 @@ Arizona<br /><br />522 North Central Ave #292<br />Phoenix, AZ 85001
 <div class="signup">SIGN UP</div>
 </div>
 <div class="group33">
-<img
-anima-src="./img/venture-partnerships-fill-1@2x.png"
-class="fill1"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-  <div class="group5">
-<img
-  anima-src="./img/venture-partnerships-group-5@2x.png"
-  class="group51"
-  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-  </div>
+<img src="../img/venture-partnerships-fill-1@2x.png" class="fill1"/>
+<div class="group5">
+<img src="../img/venture-partnerships-group-5@2x.png" class="group51" />
+</div>
   <div class="group8">
 <img
-  anima-src="./img/venture-partnerships-group-8@2x.png"
-  class="group81"
-  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
+ src="../img/venture-partnerships-group-8@2x.png" class="group81" />
   </div>
-  <img
-anima-src="./img/venture-partnerships-fill-9@2x.png"
-class="fill9"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-11@2x.png"
-class="fill11"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-13@2x.png"
-class="fill13"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-15@2x.png"
-class="fill15"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-17@2x.png"
-class="fill17"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-19@2x.png"
-class="fill19"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-21@2x.png"
-class="fill21"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-23@2x.png"
-class="fill23"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-25@2x.png"
-class="fill25"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-27@2x.png"
-class="fill27"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-29@2x.png"
-class="fill29"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-  />
-  <img
-anima-src="./img/venture-partnerships-fill-31@2x.png"
-class="fill31"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+  <img src="../img/venture-partnerships-fill-9@2x.png" class="fill9" />
+  <img src="../img/venture-partnerships-fill-11@2x.png" class="fill11" />
+  <img src="../img/venture-partnerships-fill-13@2x.png" class="fill13" />
+  <img src="../img/venture-partnerships-fill-15@2x.png" class="fill15" />
+  <img src="../img/venture-partnerships-fill-17@2x.png" class="fill17" />
+  <img src="../img/venture-partnerships-fill-19@2x.png" class="fill19" />
+  <img src="../img/venture-partnerships-fill-21@2x.png" class="fill21" />
+  <img src="../img/venture-partnerships-fill-23@2x.png" class="fill23" />
+  <img src="../img/venture-partnerships-fill-25@2x.png" class="fill25" />
+  <img src="../img/venture-partnerships-fill-27@2x.png" class="fill27" />
+  <img src="../img/venture-partnerships-fill-29@2x.png" class="fill29" />
+  <img src="../img/venture-partnerships-fill-31@2x.png" class="fill31"/>
 </div>
 </div>
 </div>
