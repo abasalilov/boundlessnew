@@ -10,10 +10,10 @@ collections:
     output: true
 email: info@getboundless.com
 description: Boundless
-baseurl: ''
-url: ''
-twitter_username: ''
-github_username: ''
+baseurl: 
+url: 
+twitter_username: 
+github_username: 
 markdown: kramdown
 gems:
 - jekyll-feed
