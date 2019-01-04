@@ -7,10 +7,7 @@ layout: default
 <div class="home">
   <div style="position:relative; margin:auto;">
     <div class="rectangle"></div>
-    <img
-      anima-src="./img/home-group-134-copy.png"
-      class="group134copy"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    <img src="./img/home-group-134-copy.png" class="group134copy"
     />
     <div class="helpingpeoplegrow">
       Helping people grow ideas<br />into sustainable companies.
@@ -43,15 +40,9 @@ layout: default
     <div class="quoralinkedintwittcopy">
       Quora<br />LinkedIn<br />Twitter<br />Google+<br />Medium<br />Email
     </div>
-    <img
-      anima-src="./img/coaching-rectangle-copy-7@2x.png"
-      class="rectanglecopy5"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    <img src="./img/coaching-rectangle-copy-7@2x.png" class="rectanglecopy5"
     />
-    <img
-      anima-src="./img/home-rectangle-copy-6.png"
-      class="rectanglecopy6"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    <img src="./img/home-rectangle-copy-6.png" class="rectanglecopy6"
     />
     <div class="a2512018boundlessprocopy">
       © 2018 BOUNDLESS<br />Proudly owned and operated in<br />Phoenix,
@@ -65,20 +56,11 @@ layout: default
     </div>
     <div class="rectanglecopy3"></div>
     <div class="workwithus">WORK<br />WITH US</div>
-    <img
-      anima-src="./img/venture-partnerships-line-copy-6.png"
-      class="linecopy2"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    <img src="./img/venture-partnerships-line-copy-6.png" class="linecopy2"
     />
-    <img
-      anima-src="./img/home-line-copy-4.png"
-      class="linecopy4"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    <img src="./img/home-line-copy-4.png" class="linecopy4"
     />
-    <img
-      anima-src="./img/venture-partnerships-line-copy-6.png"
-      class="linecopy3"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    <img src="./img/venture-partnerships-line-copy-6.png" class="linecopy3"
     />
     <div class="rectangle1"></div>
     <div class="rectanglecopy"></div>

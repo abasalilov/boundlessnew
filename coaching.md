@@ -27,29 +27,15 @@ you work your hustle to build your company right.
 </div>
 <div class="rectanglecopy3"></div>
 <div class="workwithus">WORK<br />WITH US</div>
-<img
-anima-src="./img/venture-partnerships-line-copy-6.png"
-class="linecopy5"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
-<img
-anima-src="./img/coaching-line-copy-7@2x.png"
-class="linecopy7"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
+<img src="./img/venture-partnerships-line-copy-6.png" class="linecopy5" />
+<img src="./img/coaching-line-copy-7@2x.png" class="linecopy7" />
 <div class="signupforcuratedcopy">Sign up for Curated Content</div>
 <div class="joinouremailnewslcopy">
 Join our email newsletter and we’ll send you curated articles about being
 an entrepreneur.
 </div>
-<img
-anima-src="./img/coaching-rectangle-copy-7@2x.png"
-class="rectanglecopy7" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
-<img
-  anima-src="./img/home-rectangle-copy-6.png"
-  class="rectanglecopy8"
-  src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-/>
+<img src="./img/coaching-rectangle-copy-7@2x.png" class="rectanglecopy7" />
+<img src="./img/home-rectangle-copy-6.png" class="rectanglecopy8" />
 <div class="a2512018boundlessprocopy2">
   © 2018 BOUNDLESS<br />Proudly owned and operated in<br />Phoenix,
   Arizona<br /><br />522 North Central Ave #292<br />Phoenix, AZ 85001
