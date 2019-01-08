@@ -322,11 +322,11 @@ div {
 .home .rectanglecopy3 {
   background-color: rgba(255, 255, 255, 0.7);
   top: 250px;
-  height: 77px;
-  width: 134px;
+  height: 86px;
+  width: 114px;
   position: absolute;
   margin: 0;
-  left: 1306px;
+  left: 1326px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -343,10 +343,10 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
+  font-size: 24px;
   color: rgba(252, 252, 252, 1);
   text-align: right;
-  line-height: 27px;
+  line-height: 23px;
 }
 .home .linecopy2 {
   background-color: rgba(255, 255, 255, 0);
@@ -385,7 +385,6 @@ div {
   transform: rotate(0deg);
 }
 .home .rectangle1 {
-  background-color: rgba(255, 255, 255, 0.7);
   top: 1007px;
   height: 42px;
   width: 240px;
@@ -397,7 +396,6 @@ div {
   transform: rotate(0deg);
 }
 .home .rectanglecopy {
-  background-color: rgba(255, 255, 255, 0.7);
   top: 951px;
   height: 42px;
   width: 458px;
@@ -409,16 +407,7 @@ div {
   transform: rotate(0deg);
 }
 .home .rectanglecopy2 {
-  background-color: rgba(255, 255, 255, 0.7);
-  top: 895px;
-  height: 42px;
-  width: 331px;
-  position: absolute;
-  margin: 0;
-  left: 249px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
+
 }
 .home .wevebeenbuilding {
   background-color: rgba(255, 255, 255, 0);
@@ -439,6 +428,12 @@ div {
 }
 .home .wevebeenbuilding .span1 {
   line-height: 31px;
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 42px;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
 }
 .home .wevebeenbuilding .span2 {
   font-size: 48px;
@@ -470,6 +465,7 @@ div {
 }
 .home .wheredoistartwit {
   background-color: rgba(255, 255, 255, 0);
+  border: solid yellow 2px;
   top: 886px;
   height: auto;
   width: 766px;
@@ -489,27 +485,41 @@ div {
 .home .wheredoistartwit .span1 {
 }
 .home .wheredoistartwit .span2 {
-  color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 42px;
+  line-height: 24px;
+  margin:0;
+  padding: 6px;
 }
 .home .wheredoistartwit .span3 {
   color: rgba(255, 255, 255, 0.8);
 }
 .home .wheredoistartwit .span4 {
-  color: rgba(255, 255, 255, 1);
 }
 .home .wheredoistartwit .span5 {
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 42px;
+  line-height: 24px;
+  margin:0;
+  padding: 6px;
 }
 .home .wheredoistartwit .span6 {
-  color: rgba(255, 255, 255, 1);
+
 }
 .home .wheredoistartwit .span7 {
   color: rgba(255, 255, 255, 0.8);
 }
 .home .wheredoistartwit .span8 {
-  color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 42px;
+  line-height: 24px;
+  margin:0;
+  padding: 6px;
 }
 .home .wheredoistartwit .span9 {
+    color: rgba(255, 255, 255, 0.8);
 }
+
 .home .wheredoistartwit .span10 {
   color: rgba(255, 255, 255, 1);
 }
@@ -616,7 +626,7 @@ div {
 .coaching .rectanglecopy3 {
   background-color: rgba(255, 255, 255, 0.7);
   top: 251px;
-  height: 77px;
+  height: 86px;
   width: 134px;
   position: absolute;
   margin: 0;
@@ -874,7 +884,6 @@ div {
   transform: rotate(0deg);
 }
 .venturepartnerships .rectangle1 {
-  background-color: rgba(0, 0, 0, 0.3);
   top: 2131px;
   height: 470px;
   width: 966px;
@@ -886,7 +895,6 @@ div {
   transform: rotate(0deg);
 }
 .venturepartnerships .rectanglecopy {
-  background-color: rgba(0, 0, 0, 0.3);
   top: 3185px;
   height: 470px;
   width: 966px;
@@ -1584,7 +1592,6 @@ div {
   transform: rotate(0deg);
 }
 .venturepartnerships .rectangle1 {
-  background-color: rgba(0, 0, 0, 0.3);
   top: 2131px;
   height: 470px;
   width: 966px;
@@ -1596,7 +1603,6 @@ div {
   transform: rotate(0deg);
 }
 .venturepartnerships .rectanglecopy {
-  background-color: rgba(0, 0, 0, 0.3);
   top: 3185px;
   height: 470px;
   width: 966px;
@@ -2914,3 +2920,24 @@ div {
   text-align: center;
   line-height: 31px;
 }
+
+.topMenu {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  width: 522px;
+  position: absolute;
+  margin: 0;
+  left: 818px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 18px;
+  color:white;
+  text-align: right;
+  line-height: 22px;
+}
+
+.topMenu, a {
+    color: white;
+  }
