@@ -6,7 +6,7 @@
   position: relative;
   overflow: hidden;
   margin: 0px;
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(76, 93, 34, 1);
 }
 a {
   text-decoration: none;
@@ -17,18 +17,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.venturepartnerships .rectangle {
-  background-color: rgba(76, 93, 34, 1);
-  top: 0px;
-  height: 5261px;
-  width: 1440px;
-  position: absolute;
-  margin: 0;
-  left: 0px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
+
 .venturepartnerships .rectangle1 {
   top: 2131px;
   height: 470px;
@@ -724,18 +713,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.venturepartnerships .rectangle {
-  background-color: rgba(76, 93, 34, 1);
-  top: 0px;
-  height: 5261px;
-  width: 1440px;
-  position: absolute;
-  margin: 0;
-  left: 0px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
+
 .venturepartnerships .rectangle1 {
   top: 2131px;
   height: 470px;
@@ -953,81 +931,4 @@ div {
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
   line-height: 31px;
-}
-.linecopy5 {
-  background-color: rgba(255, 255, 255, 0);
-  top: 717px;
-  height: 2px;
-  width: 1221px;
-  position: absolute;
-  margin: 0;
-  left: 233px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.linecopy8 {
-  background-color: rgba(255, 255, 255, 0);
-  top: 1634px;
-  height: 2px;
-  width: 1221px;
-  position: absolute;
-  margin: 0;
-  left: 233px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.bitmap {
-  background-color: rgba(255, 255, 255, 0);
-  top: 2153px;
-  height: 401px;
-  width: 873px;
-  position: absolute;
-  margin: 0;
-  left: 281px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.linecopy7 {
-  background-color: rgba(255, 255, 255, 0);
-  top: 105px;
-  height: 2px;
-  width: 161px;
-  position: absolute;
-  margin: 0;
-  left: 840px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.linecopy6 {
-  background-color: rgba(255, 255, 255, 0);
-  top: 4351px;
-  height: 2px;
-  width: 1221px;
-  position: absolute;
-  margin: 0;
-  left: 233px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.venturepartnershipscopy2 {
-  background-color: rgba(255, 255, 255, 0);
-  top: 4801px;
-  height: auto;
-  width: 522px;
-  position: absolute;
-  margin: 0;
-  left: 628px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 18px;
-  color: rgba(66, 66, 66, 1);
-  text-align: right;
-  line-height: 22px;
 }
