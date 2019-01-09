@@ -292,6 +292,7 @@ div {
 }
 .home .groupcopy .signup {
   background-color: rgba(255, 255, 255, 0);
+  color: #273135;
   top: 67px;
   height: auto;
   width: 99px;
@@ -303,7 +304,6 @@ div {
   transform: rotate(0deg);
   font-family: "Helvetica", Helvetica, Arial, serif;
   font-size: 25px;
-  color: #273135;
   text-align: center;
   line-height: 31px;
 }
@@ -688,7 +688,7 @@ div {
   text-align: left;
   line-height: 90px;
 }
-.headerNav .joinouremailnewslcopy {
+.joinouremailnewslcopy {
   background-color: rgba(255, 255, 255, 0);
   top: 942px;
   height: auto;
@@ -725,7 +725,7 @@ div {
 }
 .headerNav .rectanglecopy7 {
   background-color: rgba(255, 255, 255, 0);
-  top: 1030px;
+  top: 1075px;
   height: 58px;
   width: 295px;
   position: absolute;

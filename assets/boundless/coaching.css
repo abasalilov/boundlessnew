@@ -144,7 +144,7 @@
 }
 .coaching .joinouremailnewslcopy {
   background-color: rgba(255, 255, 255, 0);
-  top: 942px;
+  top: 1005px;
   height: auto;
   width: 810px;
   position: absolute;
@@ -159,7 +159,7 @@
   text-align: left;
   line-height: 31px;
 }
-.coaching .quoralinkedintwittcopy2 {
+.coaching .quoralinkedintwittcopy {
   background-color: rgba(255, 255, 255, 0);
   top: 1226px;
   height: auto;
@@ -179,7 +179,7 @@
 }
 .coaching .rectanglecopy7 {
   background-color: rgba(255, 255, 255, 0);
-  top: 1030px;
+  top: 1080px;
   height: 58px;
   width: 295px;
   position: absolute;
@@ -191,7 +191,7 @@
 }
 .coaching .rectanglecopy8 {
   background-color: rgba(255, 255, 255, 0);
-  top: 1030px;
+  top: 1080px;
   height: 58px;
   width: 485px;
   position: absolute;
@@ -201,7 +201,21 @@
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.coaching .a2512018boundlessprocopy2 {
+
+.coaching .rectanglecopy6 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 1080px;
+  height: 58px;
+  width: 485px;
+  position: absolute;
+  margin: 0;
+  left: 541px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+
+.coaching .a2512018boundlessprocopy {
   background-color: rgba(255, 255, 255, 0);
   top: 1226px;
   height: auto;
@@ -219,9 +233,40 @@
   text-align: right;
   line-height: 24px;
 }
-.coaching .yournamecopy2 {
+
+.coaching .rectanglecopy31 {
+  background-color: rgba(252, 252, 252, 1);
+  top: 1080px;
+  height: 58px;
+  width: 123px;
+  position: absolute;
+  margin: 0;
+  left: 1032px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .signup {
   background-color: rgba(255, 255, 255, 0);
-  top: 1037px;
+  color: #273135;
+  top: 1079px;
+  height: auto;
+  width: 99px;
+  position: absolute;
+  margin: 0;
+  left: 1044px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  text-align: center;
+  line-height: 31px;
+}
+
+.coaching .yourname {
+  background-color: rgba(255, 255, 255, 0);
+  top: 1090px;
   height: auto;
   width: 162px;
   position: absolute;
@@ -236,9 +281,9 @@
   text-align: left;
   line-height: 31px;
 }
-.coaching .emailcopy2 {
+.coaching .email {
   background-color: rgba(255, 255, 255, 0);
-  top: 1037px;
+  top: 1090px;
   height: auto;
   width: 206px;
   position: absolute;
@@ -251,34 +296,5 @@
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
-  line-height: 31px;
-}
-.coaching .rectanglecopy31 {
-  background-color: rgba(252, 252, 252, 1);
-  top: 1030px;
-  height: 58px;
-  width: 123px;
-  position: absolute;
-  margin: 0;
-  left: 1032px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.coaching .signup {
-  background-color: rgba(255, 255, 255, 0);
-  top: 1038px;
-  height: auto;
-  width: 99px;
-  position: absolute;
-  margin: 0;
-  left: 1044px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
-  color: rgba(252, 252, 252, 1);
-  text-align: center;
   line-height: 31px;
 }
