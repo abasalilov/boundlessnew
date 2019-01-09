@@ -1,148 +1,6 @@
-@import url("./coaching.css");
-
-.home {
-  width: 100%;
-  min-width: 1440px;
-  height: 100vh;
-  min-height: 3048px;
-  position: relative;
-  overflow: hidden;
-  margin: 0px;
-  background-color: rgba(255, 255, 255, 1);
-}
-a {
-  text-decoration: none;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.home .rectangle {
-  background-color: rgba(37, 49, 53, 1);
-  top: 0px;
-  height: 3058px;
-  width: 1440px;
-  position: absolute;
-  margin: 0;
-  left: 0px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.home .group134copy {
+.signupforcuratedcopy {
   background-color: rgba(255, 255, 255, 0);
-  top: 396px;
-  height: 289px;
-  width: 595px;
-  position: absolute;
-  margin: 0;
-  left: 27px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.home .helpingpeoplegrow {
-  background-color: rgba(255, 255, 255, 0);
-  top: 231px;
-  height: auto;
-  width: auto;
-  position: absolute;
-  margin: 0;
-  left: 236px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 92px;
-  color: rgba(255, 255, 255, 0.7);
-  text-align: left;
-  line-height: 90px;
-}
-
-.home .ittakesmorethana {
-  background-color: rgba(255, 255, 255, 0);
-  top: 440px;
-  height: auto;
-  width: 959px;
-  position: absolute;
-  margin: 0;
-  left: 242px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: left;
-  line-height: 31px;
-}
-.home .venturepartnerships {
-  background-color: rgba(255, 255, 255, 0);
-  top: 71px;
-  height: auto;
-  width: 522px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 18px;
-  color: rgba(66, 66, 66, 1);
-  text-align: right;
-  line-height: 22px;
-}
-.home .venturepartnershipscopy {
-  background-color: rgba(255, 255, 255, 0);
-  top: 2531px;
-  height: auto;
-  width: 522px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 18px;
-  color: rgba(66, 66, 66, 1);
-  text-align: right;
-  line-height: 22px;
-}
-.home .askboundlesscopy {
-  background-color: rgba(255, 255, 255, 0);
-  height: auto;
-  left: 248px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  opacity: 0.65;
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 92px;
-  color: rgba(255, 255, 255, 0.7);
-  text-align: left;
-  line-height: 90px;
-  position: absolute;
-  top: 770px;
-}
-.home .overadecadeofbuicopy {
-  background-color: rgba(255, 255, 255, 0);
-  top: 1289px;
-  height: auto;
-  width: 934px;
-  position: absolute;
-  margin: 0;
-  left: 243px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 92px;
-  color: rgba(255, 255, 255, 0.7);
-  text-align: left;
-  line-height: 90px;
-}
-
-.signupforcurated {
-  background-color: rgba(255, 255, 255, 0);
-  top: 2194px;
+  top: 4464px;
   height: auto;
   width: 921px;
   position: absolute;
@@ -157,9 +15,10 @@ div {
   text-align: left;
   line-height: 90px;
 }
-.joinouremailnewsl {
+
+.joinouremailnewslcopy {
   background-color: rgba(255, 255, 255, 0);
-  top: 2390px;
+  top: 4590px;
   height: auto;
   width: 810px;
   position: absolute;
@@ -174,9 +33,10 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.home .quoralinkedintwittcopy {
+
+.quoralinkedintwittcopy2 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2650px;
+  top: 4874px;
   height: auto;
   width: 221px;
   position: absolute;
@@ -185,15 +45,17 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+  opacity: 0.8;
   font-family: "Helvetica", Helvetica, Arial, serif;
   font-size: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 1);
   text-align: left;
   line-height: 24px;
 }
-.home .rectanglecopy5 {
+
+.rectanglecopy7 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2475px;
+  top: 4678px;
   height: 58px;
   width: 295px;
   position: absolute;
@@ -203,9 +65,10 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .rectanglecopy6 {
+
+.rectanglecopy8 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2475px;
+  top: 4678px;
   height: 58px;
   width: 485px;
   position: absolute;
@@ -215,9 +78,10 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .a2512018boundlessprocopy {
+
+.a2512018boundlessprocopy2 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2650px;
+  top: 4874px;
   height: auto;
   width: 221px;
   position: absolute;
@@ -226,15 +90,16 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+  opacity: 0.8;
   font-family: "Helvetica", Helvetica, Arial, serif;
   font-size: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 1);
   text-align: right;
   line-height: 24px;
 }
-.home .yournamecopy {
+.yournamecopy2 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2490px;
+  top: 4685px;
   height: auto;
   width: 162px;
   position: absolute;
@@ -249,9 +114,9 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.home .email {
+.emailcopy2 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2490px;
+  top: 4685px;
   height: auto;
   width: 206px;
   position: absolute;
@@ -266,9 +131,9 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.home .groupcopy {
+.groupcopy2 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2408px;
+  top: 4678px;
   height: 58px;
   width: 123px;
   position: absolute;
@@ -278,9 +143,9 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .groupcopy .rectanglecopy31 {
+.groupcopy2 .rectanglecopy31 {
   background-color: rgba(252, 252, 252, 1);
-  top: 67px;
+  top: 0px;
   height: 58px;
   width: 123px;
   position: absolute;
@@ -290,9 +155,9 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .groupcopy .signup {
+.groupcopy2 .signup {
   background-color: rgba(255, 255, 255, 0);
-  top: 67px;
+  top: 8px;
   height: auto;
   width: 99px;
   position: absolute;
@@ -302,231 +167,248 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 25px;
-  color: #273135;
+  font-size: 26px;
+  color: rgba(252, 252, 252, 1);
   text-align: center;
   line-height: 31px;
 }
-.rectanglecopy3 {
-  background-color: rgba(255, 255, 255, 0.7);
-  top: 250px;
-  height: 86px;
-  width: 114px;
+.group33 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 3254px;
+  height: 330px;
+  width: 476px;
   position: absolute;
   margin: 0;
-  left: 1326px;
+  left: 481px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-
-.workwithus {
+.group33 .fill1 {
   background-color: rgba(255, 255, 255, 0);
-  top: 261px;
-  height: auto;
-  width: 85px;
+  top: 0px;
+  height: 182px;
+  width: 211px;
   position: absolute;
   margin: 0;
-  left: 1321px;
+  left: 145px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 24px;
-  color: rgba(252, 252, 252, 1);
-  text-align: right;
-  line-height: 23px;
 }
-.home .linecopy2 {
+.group33 .group5 {
   background-color: rgba(255, 255, 255, 0);
-  top: 1183px;
+  top: 208px;
+  height: 78px;
+  width: 100px;
+  position: absolute;
+  margin: 0;
+  left: 376px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .group5 .group51 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 0px;
+  height: 78px;
+  width: 100px;
+  position: relative;
+  margin: 0;
+  left: 0px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .group8 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 208px;
+  height: 78px;
+  width: 100px;
+  position: absolute;
+  margin: 0;
+  left: 0px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .group8 .group81 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 0px;
+  height: 78px;
+  width: 100px;
+  position: relative;
+  margin: 0;
+  left: 0px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill9 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 208px;
+  height: 78px;
+  width: 76px;
+  position: absolute;
+  margin: 0;
+  left: 301px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill11 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 299px;
+  height: 31px;
+  width: 41px;
+  position: absolute;
+  margin: 0;
+  left: 289px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill13 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 299px;
+  height: 31px;
+  width: 40px;
+  position: absolute;
+  margin: 0;
+  left: 361px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill15 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 299px;
+  height: 31px;
+  width: 39px;
+  position: absolute;
+  margin: 0;
+  left: 403px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill17 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 299px;
+  height: 31px;
+  width: 31px;
+  position: absolute;
+  margin: 0;
+  left: 445px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill19 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 299px;
+  height: 31px;
+  width: 31px;
+  position: absolute;
+  margin: 0;
+  left: 332px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill21 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 160px;
+  height: 23px;
+  width: 18px;
+  position: absolute;
+  margin: 0;
+  left: 349px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.group33 .fill23 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 169px;
   height: 2px;
-  width: 1221px;
+  width: 2px;
   position: absolute;
   margin: 0;
-  left: 233px;
+  left: 352px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .linecopy4 {
+.group33 .fill25 {
   background-color: rgba(255, 255, 255, 0);
-  top: 683px;
-  height: 2px;
-  width: 1372px;
+  top: 208px;
+  height: 78px;
+  width: 96px;
   position: absolute;
   margin: 0;
-  left: 82px;
+  left: 104px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .linecopy3 {
+.group33 .fill27 {
   background-color: rgba(255, 255, 255, 0);
-  top: 2099px;
-  height: 2px;
-  width: 1221px;
+  top: 208px;
+  height: 78px;
+  width: 99px;
   position: absolute;
   margin: 0;
-  left: 233px;
+  left: 206px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .rectangle1 {
-  top: 1007px;
-  height: 42px;
-  width: 240px;
+.group33 .fill29 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 299px;
+  height: 31px;
+  width: 39px;
   position: absolute;
   margin: 0;
-  left: 249px;
+  left: 250px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.home .rectanglecopy {
-  top: 951px;
-  height: 42px;
-  width: 458px;
+.group33 .fill31 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 54px;
+  height: 70px;
+  width: 70px;
   position: absolute;
   margin: 0;
-  left: 249px;
+  left: 202px;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-}
-.home .rectanglecopy2 {
 }
 
-.home .wevebeenbuilding {
-  background-color: rgba(255, 255, 255, 0);
-  top: 1427px;
-  height: auto;
-  width: 959px;
-  position: absolute;
-  margin: 0;
-  left: 247px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: left;
-  line-height: 26px;
-}
-.home .wevebeenbuilding .span1 {
-  line-height: 31px;
-  height: 42px;
-  margin: 0;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.home .wevebeenbuilding .span2 {
-  font-size: 48px;
-  line-height: 58px;
-}
-.home .wevebeenbuilding .span3 {
-  line-height: 31px;
-}
-.home .wevebeenbuilding .span4 {
-  font-size: 48px;
-  line-height: 58px;
-}
-.home .wevebeenbuilding .span5 {
-  line-height: 31px;
-}
-.home .wevebeenbuilding .span6 {
-  line-height: 31px;
-  text-decoration: underline;
-}
-.home .wevebeenbuilding .span7 {
-  line-height: 31px;
-}
-.home .wevebeenbuilding .span8 {
-  line-height: 31px;
-  text-decoration: underline;
-}
-.home .wevebeenbuilding .span9 {
-  line-height: 31px;
-}
-.home .wheredoistartwit {
-  background-color: rgba(255, 255, 255, 0);
-  top: 886px;
-  height: auto;
-  width: 766px;
-  position: absolute;
-  margin: 0;
-  left: 258px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
-  color: rgba(36, 48, 54, 1);
-  text-align: left;
-  line-height: 56px;
-  text-decoration: underline;
-}
-.home .wheredoistartwit .span1 {
-}
-.home .wheredoistartwit .span2 {
-  background-color: rgba(255, 255, 255, 0.7);
-  height: 42px;
-  line-height: 24px;
-  margin: 0;
-  padding: 6px;
-}
-.home .wheredoistartwit .span3 {
-  color: rgba(255, 255, 255, 0.8);
-  margin-left: 10px;
-}
-.home .wheredoistartwit .span4 {
-}
-.home .wheredoistartwit .span5 {
-  background-color: rgba(255, 255, 255, 0.7);
-  height: 42px;
-  line-height: 24px;
-  margin: 0;
-  padding: 6px;
-}
-.home .wheredoistartwit .span6 {
-}
-.home .wheredoistartwit .span7 {
-  color: rgba(255, 255, 255, 0.8);
-  margin-left: 10px;
-}
-.home .wheredoistartwit .span8 {
-  background-color: rgba(255, 255, 255, 0.7);
-  height: 42px;
-  line-height: 24px;
-  margin: 0;
-  padding: 6px;
-}
-.home .wheredoistartwit .span9 {
-  color: rgba(255, 255, 255, 0.8);
-  margin-left: 10px;
-}
-
-.home .wheredoistartwit .span10 {
-  color: rgba(255, 255, 255, 1);
-}
-.home .wheredoistartwit .span11 {
-  color: rgba(255, 255, 255, 0.8);
-}
-
-.headerNav {
+.appdevelopment {
   width: 100%;
-  height: 20vh;
+  height: 100vh;
   position: relative;
   overflow: hidden;
   margin: 0px;
   background-color: rgba(255, 255, 255, 1);
 }
-
-.headerNav .rectangle {
+a {
+  text-decoration: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.appdevelopment .rectangle {
   background-color: rgba(60, 3, 32, 1);
+  top: 0px;
   height: 1608px;
   width: 1440px;
   position: absolute;
@@ -536,7 +418,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .headerNavcont {
+.appdevelopment .appdevelopmentcont {
   background-color: rgba(255, 255, 255, 0);
   top: 231px;
   height: auto;
@@ -553,7 +435,7 @@ div {
   text-align: left;
   line-height: 90px;
 }
-.headerNav .boundless {
+.appdevelopment .boundless {
   background-color: rgba(255, 255, 255, 0);
   top: 41px;
   height: auto;
@@ -570,7 +452,7 @@ div {
   text-align: left;
   line-height: 90px;
 }
-.headerNav .asanontechnicale {
+.appdevelopment .asanontechnicale {
   background-color: rgba(255, 255, 255, 0);
   top: 440px;
   height: auto;
@@ -587,7 +469,7 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.headerNav .venturepartnerships {
+.appdevelopment .venturepartnerships {
   background-color: rgba(255, 255, 255, 0);
   top: 71px;
   height: auto;
@@ -601,7 +483,7 @@ div {
   text-align: right;
   line-height: 22px;
 }
-.headerNav .rectanglecopy3 {
+.appdevelopment .rectanglecopy3 {
   background-color: rgba(255, 255, 255, 0.7);
   top: 251px;
   height: 77px;
@@ -613,7 +495,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .workwithus {
+.appdevelopment .workwithus {
   background-color: rgba(255, 255, 255, 0);
   top: 262px;
   height: auto;
@@ -630,7 +512,7 @@ div {
   text-align: right;
   line-height: 27px;
 }
-.headerNav .linecopy5 {
+.appdevelopment .linecopy5 {
   background-color: rgba(255, 255, 255, 0);
   top: 717px;
   height: 2px;
@@ -642,7 +524,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .linecopy7 {
+.appdevelopment .linecopy7 {
   background-color: rgba(255, 255, 255, 0);
   top: 105px;
   height: 2px;
@@ -654,7 +536,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .venturepartnershipscopy2 {
+.appdevelopment .venturepartnershipscopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1153px;
   height: auto;
@@ -671,7 +553,7 @@ div {
   text-align: right;
   line-height: 22px;
 }
-.headerNav .signupforcuratedcopy {
+.appdevelopment .signupforcuratedcopy {
   background-color: rgba(255, 255, 255, 0);
   top: 816px;
   height: auto;
@@ -688,7 +570,7 @@ div {
   text-align: left;
   line-height: 90px;
 }
-.headerNav .joinouremailnewslcopy {
+.appdevelopment .joinouremailnewslcopy {
   background-color: rgba(255, 255, 255, 0);
   top: 942px;
   height: auto;
@@ -705,7 +587,7 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.headerNav .quoralinkedintwittcopy2 {
+.appdevelopment .quoralinkedintwittcopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1226px;
   height: auto;
@@ -723,7 +605,7 @@ div {
   text-align: left;
   line-height: 24px;
 }
-.headerNav .rectanglecopy7 {
+.appdevelopment .rectanglecopy7 {
   background-color: rgba(255, 255, 255, 0);
   top: 1030px;
   height: 58px;
@@ -735,7 +617,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .rectanglecopy8 {
+.appdevelopment .rectanglecopy8 {
   background-color: rgba(255, 255, 255, 0);
   top: 1030px;
   height: 58px;
@@ -747,7 +629,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .a2512018boundlessprocopy2 {
+.appdevelopment .a2512018boundlessprocopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1226px;
   height: auto;
@@ -765,7 +647,7 @@ div {
   text-align: right;
   line-height: 24px;
 }
-.headerNav .yournamecopy2 {
+.appdevelopment .yournamecopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1037px;
   height: auto;
@@ -782,7 +664,7 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.headerNav .emailcopy2 {
+.appdevelopment .emailcopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1037px;
   height: auto;
@@ -799,7 +681,7 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.headerNav .rectanglecopy31 {
+.appdevelopment .rectanglecopy31 {
   background-color: rgba(252, 252, 252, 1);
   top: 1030px;
   height: 58px;
@@ -811,7 +693,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-.headerNav .signup {
+.appdevelopment .signup {
   background-color: rgba(255, 255, 255, 0);
   top: 1038px;
   height: auto;
@@ -827,72 +709,4 @@ div {
   color: rgba(252, 252, 252, 1);
   text-align: center;
   line-height: 31px;
-}
-
-.topMenu {
-  background-color: rgba(255, 255, 255, 0);
-  height: auto;
-  width: 522px;
-  position: absolute;
-  margin: 0;
-  left: 818px;
-  top: 67px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 18px;
-  color: white;
-  text-align: right;
-  line-height: 22px;
-}
-
-.topMenu,
-a {
-  color: white;
-}
-
-.blogLink {
-  color: #273135;
-  /* margin-right:3rem; */
-}
-
-.bottomMenu {
-  background-color: rgba(255, 255, 255, 0);
-  height: auto;
-  width: 522px;
-  position: absolute;
-  left: 634px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 18px;
-  color: white;
-  text-align: right;
-  line-height: 22px;
-  top: 2539px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-/* @import("/path-to-your-styles.css");  */
-/* @import("/path-to-your-styles.css");  */
-
-.boundless {
-  background-color: rgba(255, 255, 255, 0);
-  top: 41px;
-  height: auto;
-  width: auto;
-  position: absolute;
-  margin: 0;
-  left: 114px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 48px;
-  color: rgba(252, 252, 252, 1);
-  text-align: left;
-  line-height: 90px;
 }
