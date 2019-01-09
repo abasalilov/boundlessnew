@@ -95,10 +95,10 @@
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
+  font-size: 23px;
   color: rgba(252, 252, 252, 1);
   text-align: right;
-  line-height: 27px;
+  line-height: 24px;
 }
 .coaching .linecopy5 {
   background-color: rgba(255, 255, 255, 0);
