@@ -1,5 +1,6 @@
 @import url("./coaching.css");
-/* @import url("./venturepartnerships.css"); */
+
+@import url("./venturepartnerships.css");
 
 .home {
   width: 100%;

@@ -4,7 +4,7 @@ permalink: "/venture-partners/"
 layout: default
 ---
 
-<div class="venturepartnerships">
+<div class="venturepartnershippg">
 <div style="position:relative; margin:auto;">
 <div class="rectangle"></div>
 <div class="rectangle1"></div>
