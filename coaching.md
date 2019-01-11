@@ -2,6 +2,10 @@
 title: Coaching
 permalink: "/coaching/"
 layout: default
+style: |
+html {
+  font-family: "Barlow", sans-serif !important;
+}
 ---
 
 <div class="coaching">

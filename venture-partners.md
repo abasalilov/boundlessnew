@@ -2,6 +2,10 @@
 title: Venture Partnerships
 permalink: "/venture-partners/"
 layout: default
+style: |
+html {
+  font-family: "Barlow", sans-serif !important;
+}
 ---
 
 <div class="venturepartnershippg">

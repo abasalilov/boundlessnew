@@ -2,6 +2,10 @@
 title: About
 permalink: "/about/"
 layout: default
+style: |
+html {
+  font-family: "Barlow", sans-serif !important;
+}
 ---
 
 <div class="wrapper about">

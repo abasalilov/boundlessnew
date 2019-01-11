@@ -2,6 +2,10 @@
 title: Home
 permalink: "/"
 layout: default
+style: |
+html {
+  font-family: "Barlow", sans-serif !important;
+}
 ---
 
 <div class="home">
