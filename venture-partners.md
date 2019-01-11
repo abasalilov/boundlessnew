@@ -3,8 +3,8 @@ title: Venture Partnerships
 permalink: "/venture-partners/"
 layout: default
 style: |
-html {
-  font-family: "Barlow", sans-serif !important;
+html: {
+  font-family: "Barlow Condensed", sans-serif !important;
 }
 ---
 

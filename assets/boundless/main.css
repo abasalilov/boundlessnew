@@ -3,7 +3,7 @@
 @import url("./venturepartnerships.css");
 
 html {
-  font-family: "Barlow", sans-serif !important;
+  font-family: "Barlow Condensed", sans-serif !important;
 }
 
 .home {
@@ -60,7 +60,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -78,7 +78,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -92,7 +92,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 18px;
   color: rgba(66, 66, 66, 1);
   text-align: right;
@@ -106,7 +106,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 18px;
   color: rgba(66, 66, 66, 1);
   text-align: right;
@@ -120,7 +120,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   opacity: 0.65;
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -139,7 +139,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -157,7 +157,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -174,7 +174,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -191,7 +191,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -232,7 +232,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.8);
   text-align: right;
@@ -249,7 +249,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -266,7 +266,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -308,7 +308,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 25px;
   text-align: center;
   line-height: 31px;
@@ -337,7 +337,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 24px;
   color: rgba(252, 252, 252, 1);
   text-align: right;
@@ -415,7 +415,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -468,7 +468,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(36, 48, 54, 1);
   text-align: left;
@@ -553,7 +553,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -570,7 +570,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 48px;
   color: rgba(252, 252, 252, 1);
   text-align: left;
@@ -587,7 +587,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -601,7 +601,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 18px;
   color: rgba(66, 66, 66, 1);
   text-align: right;
@@ -630,7 +630,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(252, 252, 252, 1);
   text-align: right;
@@ -671,7 +671,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 18px;
   color: rgba(66, 66, 66, 1);
   text-align: right;
@@ -688,7 +688,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 92px;
   color: rgba(255, 255, 255, 0.7);
   text-align: left;
@@ -705,7 +705,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -723,7 +723,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   opacity: 0.8;
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 20px;
   color: rgba(255, 255, 255, 1);
   text-align: left;
@@ -765,7 +765,7 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   opacity: 0.8;
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 20px;
   color: rgba(255, 255, 255, 1);
   text-align: right;
@@ -782,7 +782,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -799,7 +799,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -828,7 +828,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 26px;
   color: rgba(252, 252, 252, 1);
   text-align: center;
@@ -846,7 +846,7 @@ div {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 18px;
   color: white;
   text-align: right;
@@ -872,7 +872,7 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 18px;
   color: white;
   text-align: right;
@@ -896,7 +896,7 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif !important;
   font-size: 48px;
   color: rgba(252, 252, 252, 1);
   text-align: left;
