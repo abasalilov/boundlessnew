@@ -1,0 +1,334 @@
+.coaching {
+  width: 100%;
+  min-width: 1440px;
+  height: 100vh;
+  min-height: 1599px;
+  position: relative;
+  overflow: hidden;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 1);
+}
+a {
+  text-decoration: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.coaching .rectangle {
+  background-color: rgba(108, 72, 0, 1);
+  bottom: calc(0% - 9px);
+  height: 1617px;
+  width: 100%;
+  position: relative;
+  pointer-events: auto;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .rectangle-layout-container {
+  pointer-events: none;
+  flex-direction: column;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  position: absolute;
+  margin: 0;
+  display: flex;
+  left: 0%;
+}
+.coaching .coachingcontent {
+  background-color: rgba(255, 255, 255, 0);
+  top: calc(0% + 231px);
+  height: calc(100% - 1419px);
+  width: calc(100% - 1139px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 236px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 92px;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  line-height: 90px;
+}
+.coaching .boundless {
+  background-color: rgba(255, 255, 255, 0);
+  top: calc(0% + 41px);
+  height: auto;
+  width: auto;
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 114px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 48px;
+  color: rgba(252, 252, 252, 1);
+  text-align: left;
+  line-height: 90px;
+}
+.coaching .asanontechnicale {
+  background-color: rgba(255, 255, 255, 0);
+  top: calc(0% + 440px);
+  height: calc(100% - 1419px);
+  width: calc(100% - 483px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 242px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+}
+.coaching .venturepartnerships {
+  background-color: rgba(255, 255, 255, 0);
+  right: calc(0% + 100px);
+  top: calc(0% + 71px);
+  height: auto;
+  width: 522px;
+  position: absolute;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 18px;
+  color: rgba(66, 66, 66, 1);
+  text-align: right;
+  line-height: 22px;
+}
+.coaching .rectanglecopy3 {
+  background-color: rgba(255, 255, 255, 0.7);
+  right: 0%;
+  top: calc(0% + 251px);
+  height: 77px;
+  width: 134px;
+  position: absolute;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .workwithus {
+  background-color: rgba(255, 255, 255, 0);
+  right: calc(0% + 34px);
+  top: calc(0% + 262px);
+  height: auto;
+  width: 85px;
+  position: absolute;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(252, 252, 252, 1);
+  text-align: right;
+  line-height: 27px;
+}
+.coaching .linecopy5 {
+  background-color: rgba(255, 255, 255, 0);
+  top: 717px;
+  height: 2px;
+  width: calc(100% - 221px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 234px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .linecopy7 {
+  background-color: rgba(255, 255, 255, 0);
+  right: calc(0% + 360px);
+  top: calc(0% + 105px);
+  height: 2px;
+  width: 63px;
+  position: absolute;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .venturepartnershipscopy2 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 403px);
+  height: auto;
+  width: calc(100% - 920px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 630px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 18px;
+  color: rgba(66, 66, 66, 1);
+  text-align: right;
+  line-height: 22px;
+}
+.coaching .signupforcuratedcopy {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 665px);
+  height: auto;
+  width: calc(100% - 521px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 236px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 92px;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  line-height: 90px;
+}
+.coaching .joinouremailnewslcopy {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 590px);
+  height: auto;
+  width: calc(100% - 632px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 240px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+}
+.coaching .quoralinkedintwittcopy2 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 192px);
+  height: auto;
+  width: calc(100% - 1221px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 246px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  opacity: 0.8;
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: left;
+  line-height: 24px;
+}
+.coaching .rectanglecopy7 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 511px);
+  height: 58px;
+  width: calc(100% - 1145px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 240px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .rectanglecopy8 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 511px);
+  height: 58px;
+  width: calc(100% - 955px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 541px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .a2512018boundlessprocopy2 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 175px);
+  height: auto;
+  width: calc(100% - 1221px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 931px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  opacity: 0.8;
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  line-height: 24px;
+}
+.coaching .yournamecopy2 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 518px);
+  height: auto;
+  width: calc(100% - 1280px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 254px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+}
+.coaching .emailcopy2 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 518px);
+  height: auto;
+  width: calc(100% - 1236px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 558px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+}
+.coaching .rectanglecopy31 {
+  background-color: rgba(252, 252, 252, 1);
+  bottom: calc(0% + 511px);
+  height: 58px;
+  width: calc(100% - 1317px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 1032px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.coaching .signup {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 517px);
+  height: auto;
+  width: calc(100% - 1343px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 1045px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(252, 252, 252, 1);
+  text-align: center;
+  line-height: 31px;
+}

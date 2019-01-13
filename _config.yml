@@ -1,6 +1,20 @@
+################################################################
+# This is the PRODUCTION config file.
+#
+# Run this command when ready to deploy/upload to your server:
+# `jekyll build`
+#
+# This file is *NOT* rebuilt automatically.
+# If you change this file, please restart the server process
+###############################################################
 ---
+# Serving
+# baseurl:  # is your site served from subdirectory?
+url: "https://abasalilov.github.io" # the hostname & protocol for your site
+
 title: Boundless
 timezone: America/Phoenix
+
 collections:
   posts:
     title: Posts
@@ -10,13 +24,34 @@ collections:
     output: true
 email: info@getboundless.com
 description: Boundless
-baseurl: 
-url: 
-twitter_username: 
-github_username: 
+
+# baseurl:
+# url:
+# twitter_username:
+# github_username:
+
+# Build settings
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
-gems:
-- jekyll-feed
+sass:
+  style: compressed
+highlighter: rouge
+autoprefixer:
+  browsers:
+    - last 2 versions
+
+# Inlcudes & excludes
+include: ["_pages"] # custom directory to organize pages
+
 exclude:
-- Gemfile
-- Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-autoprefixer

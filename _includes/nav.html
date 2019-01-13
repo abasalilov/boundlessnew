@@ -1,0 +1,13 @@
+<nav class="innerNav" >
+  <div class="boundless">BOUNDLESS</div>
+  <div class="navCopy" >
+    {% assign navigation_pages = site.pages | sort: 'nav_order' %}
+    {% for p in navigation_pages %}
+      {% if p.nav_order %}
+          <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
+            {{ p.title }}
+          </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</nav>
