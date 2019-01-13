@@ -144,28 +144,11 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.home .quoralinkedintwittcopy {
-  background-color: rgba(255, 255, 255, 0);
-  bottom: calc(0% + 263px);
-  height: auto;
-  width: 221px;
-  position: absolute;
-  margin: 0;
-  left: calc(0% + 246px);
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 20px;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: left;
-  line-height: 24px;
-}
 .home .rectanglecopy5 {
   background-color: rgba(255, 255, 255, 0);
   bottom: calc(0% + 582px);
   height: 58px;
-  width: calc(100% - 1110px);
+  width: calc(100% - 1300px);
   position: absolute;
   margin: 0;
   left: calc(0% + 240px);
@@ -177,30 +160,13 @@ div {
   background-color: rgba(255, 255, 255, 0);
   bottom: calc(0% + 582px);
   height: 58px;
-  width: calc(100% - 955px);
+  width: calc(100% - 990px);
   position: absolute;
   margin: 0;
   left: calc(0% + 541px);
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-}
-.home .a2512018boundlessprocopy {
-  background-color: rgba(255, 255, 255, 0);
-  right: calc(0% + 290px);
-  bottom: calc(0% + 246px);
-  height: auto;
-  width: 221px;
-  position: absolute;
-  margin: 0;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 20px;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: right;
-  line-height: 24px;
 }
 .home .yournamecopy {
   background-color: rgba(255, 255, 255, 0);
@@ -240,10 +206,10 @@ div {
   background-color: rgba(255, 255, 255, 0);
   bottom: calc(0% + 582px);
   height: 58px;
-  width: calc(100% - 1317px);
+  width: calc(100% - 1450px);
   position: absolute;
   margin: 0;
-  left: calc(0% + 1032px);
+  left: calc(0% + 1160px);
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
@@ -511,7 +477,6 @@ nav {
   font-family: "Barlow Condensed", sans-serif !important;
   font-size: 28px;
   margin-top: 20px;
-  display: flex-end;
   flex-wrap: wrap;
   align-content: stretch;
 }
@@ -544,4 +509,91 @@ a {
   line-height: 56px;
   font-family: "Barlow Condensed", sans-serif !important;
   margin-left: 10px;
+}
+
+.innerFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  top: calc(0% + 41px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 114px);
+}
+
+.bottomNav {
+  background-color: #273135;
+  width: 100%;
+  text-align: right;
+  line-height: 32px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-size: 28px;
+  flex-wrap: wrap;
+  float: right;
+  align-content: stretch;
+}
+
+.boundlessClear {
+  display: none;
+}
+
+.navBottomCopy {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  width: 522px;
+  text-align: right;
+  line-height: 32px;
+  position: absolute;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-size: 28px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  align-content: stretch;
+  float: right;
+  right: calc(0% + 290px);
+  bottom: calc(0% + 490px);
+}
+
+.footerBottom,
+.quoralinkedintwittcopy {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 263px);
+  height: auto;
+  width: 221px;
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 246px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 24px;
+}
+
+.footerBottom,
+.a2512018boundlessprocopy {
+  background-color: rgba(255, 255, 255, 0);
+  right: calc(0% + 290px);
+  bottom: calc(0% + 246px);
+  height: auto;
+  width: 221px;
+  position: absolute;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: right;
+  line-height: 24px;
 }
