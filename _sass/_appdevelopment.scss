@@ -30,7 +30,7 @@ div {
   background-color: rgba(255, 255, 255, 0);
   top: calc(0% + 231px);
   height: calc(100% - 1419px);
-  width: calc(100% - 870px);
+  width: calc(100% - 830px);
   position: absolute;
   margin: 0;
   left: calc(0% + 236px);
@@ -43,23 +43,7 @@ div {
   text-align: left;
   line-height: 90px;
 }
-.appdevelopment .boundless {
-  background-color: rgba(255, 255, 255, 0);
-  top: calc(0% + 41px);
-  height: auto;
-  width: auto;
-  position: absolute;
-  margin: 0;
-  left: calc(0% + 114px);
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 48px;
-  color: rgba(252, 252, 252, 1);
-  text-align: left;
-  line-height: 90px;
-}
+
 .appdevelopment .asanontechnicale {
   background-color: rgba(255, 255, 255, 0);
   top: calc(0% + 440px);
@@ -94,35 +78,7 @@ div {
   text-align: right;
   line-height: 22px;
 }
-.appdevelopment .rectanglecopy3 {
-  background-color: rgba(255, 255, 255, 0.7);
-  right: 0%;
-  top: calc(0% + 251px);
-  height: 77px;
-  width: 134px;
-  position: absolute;
-  margin: 0;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.appdevelopment .workwithus {
-  background-color: rgba(255, 255, 255, 0);
-  right: calc(0% + 34px);
-  top: calc(0% + 262px);
-  height: auto;
-  width: 85px;
-  position: absolute;
-  margin: 0;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
-  font-size: 26px;
-  color: rgba(252, 252, 252, 1);
-  text-align: right;
-  line-height: 27px;
-}
+
 .appdevelopment .linecopy5 {
   background-color: rgba(255, 255, 255, 0);
   top: 717px;
@@ -320,4 +276,102 @@ div {
   color: rgba(252, 252, 252, 1);
   text-align: center;
   line-height: 31px;
+}
+
+.appdevelopment .rectanglecopy31 {
+  background-color: rgba(252, 252, 252, 1);
+  bottom: calc(0% + 511px);
+  height: 58px;
+  width: calc(100% - 1317px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 1032px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.appdevelopment .groupcopyAppDev .rectanglecopy31 {
+  background-color: rgba(252, 252, 252, 1);
+  top: 0px;
+  height: 58px;
+  width: 123px;
+  position: absolute;
+  margin: 0;
+  left: 0px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+.appdevelopment .groupcopyAppDev .signup {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  width: 99px;
+  position: absolute;
+  margin: 0;
+  left: 12px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-size: 26px;
+  color: #273135;
+  text-align: center;
+  line-height: 31px;
+}
+
+.appdevelopment .groupcopy .rectanglecopy31 {
+  background-color: rgba(252, 252, 252, 1);
+  top: 0px;
+  height: 60px;
+  width: 123px;
+  position: absolute;
+  margin: 0;
+  left: 0px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+
+.rectanglecopy3AppDev {
+  background-color: rgba(255, 255, 255, 0.7);
+  right: 0%;
+  top: calc(0% + 251px);
+  height: 77px;
+  width: 134px;
+  position: fixed;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
+
+.workwithusAppDev {
+  background-color: rgba(255, 255, 255, 0);
+  top: 261px;
+  right: calc(0% + 34px);
+  height: auto;
+  width: 85px;
+  margin: 4px auto;
+  left: 1321px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-size: 24px;
+  color: #273135;
+  text-align: right;
+  line-height: 23px;
+}
+
+.appdevelopment .rectanglecopy6 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 511px);
+  height: 58px;
+  width: calc(100% - 955px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 541px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
 }
