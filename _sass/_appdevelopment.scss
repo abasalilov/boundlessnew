@@ -30,7 +30,7 @@ div {
   background-color: rgba(255, 255, 255, 0);
   top: calc(0% + 231px);
   height: calc(100% - 1419px);
-  width: calc(100% - 830px);
+  width: calc(100% - 500px);
   position: absolute;
   margin: 0;
   left: calc(0% + 236px);
@@ -163,9 +163,21 @@ div {
   line-height: 23px;
 }
 
+.appdevelopment .rectanglecopy7 {
+  background-color: rgba(255, 255, 255, 0);
+  bottom: calc(0% + 490px);
+  height: 58px;
+  width: calc(100% - 1310px);
+  position: absolute;
+  margin: 0;
+  left: calc(0% + 240px);
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+}
 .appdevelopment .rectanglecopy6 {
   background-color: rgba(255, 255, 255, 0);
-  bottom: calc(0% + 511px);
+  bottom: calc(0% + 490px);
   height: 58px;
   width: calc(100% - 955px);
   position: absolute;
@@ -175,7 +187,6 @@ div {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
 }
-
 .appdevelopment .groupcopy {
   background-color: rgba(255, 255, 255, 0);
   bottom: calc(0% + 490px);

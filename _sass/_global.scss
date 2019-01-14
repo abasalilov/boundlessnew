@@ -144,21 +144,6 @@ a {
   left: calc(0% + 114px);
 }
 
-.bottomNav {
-  background-color: #273135;
-  width: 100%;
-  text-align: right;
-  line-height: 32px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 28px;
-  flex-wrap: wrap;
-  float: right;
-  align-content: stretch;
-}
-
 .boundlessClear {
   display: none;
 }
@@ -223,7 +208,7 @@ a {
 
 .rectanglecopy3 {
   background-color: rgba(255, 255, 255, 0.7);
-  right: calc(0% + 34px);
+  right: 0px;
   top: calc(0% + 250px);
   height: 77px;
   width: 134px;
@@ -249,16 +234,6 @@ a {
   color: #273135;
   text-align: right;
   line-height: 23px;
-}
-
-.coaching,
-.bottomNav {
-  background-color: #674915;
-}
-
-.home,
-.bottomNav {
-  background-color: #273135;
 }
 
 .yournamecopy {
@@ -367,22 +342,4 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-}
-
-.workwithusAppDev {
-  background-color: rgba(255, 255, 255, 0);
-  top: 261px;
-  right: calc(0% + 34px);
-  height: auto;
-  width: 85px;
-  margin: 4px auto;
-  left: 1321px;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 24px;
-  color: #273135;
-  text-align: right;
-  line-height: 23px;
 }
