@@ -81,7 +81,7 @@ nav {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif;
   font-size: 48px;
   color: rgba(252, 252, 252, 1);
   text-align: left;
@@ -99,7 +99,7 @@ nav {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 26px;
+  font-size: 23px;
   margin-top: 20px;
   flex-wrap: wrap;
   align-content: stretch;
@@ -160,7 +160,7 @@ a {
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 26px;
+  font-size: 23px;
   margin-top: 20px;
   flex-wrap: wrap;
   align-content: stretch;
@@ -181,7 +181,7 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -200,7 +200,7 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.8);
   text-align: right;
@@ -232,7 +232,6 @@ a {
   transform: rotate(0deg);
   font-family: "Barlow Condensed", sans-serif !important;
   font-size: 24px;
-  color: #273135;
   text-align: right;
   line-height: 23px;
 }
@@ -282,7 +281,7 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -312,7 +311,7 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-family: "Barlow Condensed", sans-serif;
   font-size: 26px;
   color: rgba(255, 255, 255, 0.8);
   text-align: left;
@@ -343,4 +342,22 @@ a {
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+}
+
+.venturepartnershippg .workwithus {
+  background-color: rgba(255, 255, 255, 0);
+  top: 261px;
+  right: calc(0% + 34px);
+  height: auto;
+  width: 85px;
+  margin: 4px auto;
+  left: 1321px;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-size: 24px;
+  text-align: right;
+  line-height: 23px;
+  color: #4f5c2b;
 }
