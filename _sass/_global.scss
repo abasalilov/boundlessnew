@@ -50,7 +50,7 @@ div {
 nav {
   background-color: rgba(255, 255, 255, 0);
   height: 80px;
-  width: 90%;
+  width: 100%;
   z-index: 1000;
   margin: 0;
   -ms-transform: rotate(0deg); /* IE 9 */
@@ -66,6 +66,7 @@ nav {
 .innerNav {
   display: flex;
   flex-direction: row;
+  width: 90%;
   justify-content: space-between;
   top: calc(0% + 41px);
   position: absolute;
@@ -325,7 +326,7 @@ a {
   width: calc(100% - 1450px);
   position: absolute;
   margin: 0;
-  left: calc(0% + 1190px);
+  left: calc(0% + 1040px);
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
