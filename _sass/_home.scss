@@ -156,7 +156,7 @@ div {
 .home .signupforcurated {
   background-color: rgba(255, 255, 255, 0);
   top: 2194px;
-  height: auto;
+  height: 10%;
   width: calc(100% - 521px);
   position: absolute;
   margin: 0;
@@ -247,18 +247,6 @@ div {
   text-align: left;
   line-height: 31px;
 }
-.home .groupcopy {
-  background-color: rgba(255, 255, 255, 0);
-  bottom: calc(0% + 582px);
-  height: 58px;
-  width: calc(100% - 1317px);
-  position: absolute;
-  margin: 0;
-  left: calc(0% + 1032px);
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
 .home .groupcopy .rectanglecopy31 {
   background-color: rgba(252, 252, 252, 1);
   top: 0px;
@@ -273,7 +261,7 @@ div {
 }
 .home .groupcopy .signup {
   background-color: rgba(255, 255, 255, 0);
-  top: 8px;
+  top: 25%;
   height: auto;
   width: 99px;
   position: absolute;
@@ -288,35 +276,7 @@ div {
   text-align: center;
   line-height: 31px;
 }
-.home .rectanglecopy3 {
-  background-color: rgba(255, 255, 255, 0.7);
-  top: calc(0% + 300px);
-  height: 77px;
-  width: 135px;
-  position: fixed;
-  margin: 0;
-  left: calc(100% - 135px);
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-}
-.home .workwithus {
-  background-color: rgba(255, 255, 255, 0);
-  top: calc(0% + 310px);
-  height: auto;
-  width: 85px;
-  position: fixed;
-  margin: 0;
-  left: calc(100% - 115px);
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
-  font-size: 26px;
-  color: rgba(252, 252, 252, 1);
-  text-align: right;
-  line-height: 27px;
-}
+
 .home .linecopy2 {
   background-color: rgba(255, 255, 255, 0);
   top: 1183px;
