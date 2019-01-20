@@ -1,7 +1,4 @@
 .navbar {
-  box-shadow: 1px 1px 3px $secondary;
-  opacity: 0.8;
-
   .nav-item {
     font-size: 1.2rem;
     margin: 0;
@@ -20,6 +17,8 @@
 
 .homeHeader {
   background-color: rgba(37, 49, 53, 1);
+  display: flex !important;
+  flex-direction: row !important;
 }
 
 .coachingHeader {
@@ -53,4 +52,16 @@
   color: rgba(252, 252, 252, 1);
   text-align: left;
   line-height: 90px;
+}
+
+.footer {
+  border: solid red 3px !important;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
 }
