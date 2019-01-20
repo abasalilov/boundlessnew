@@ -1,37 +1,90 @@
-.footer {
-  border: solid red 3px !important;
+.bhfooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: solid red;
+}
+
+.homeFooter {
+  background-color: rgba(37, 49, 53, 1);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border: solid yellow;
+}
+
+.coachingFooter {
+  background-color: rgba(108, 72, 0, 1);
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 
-.footer > .container {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-.homeFooter {
-  background-color: rgba(37, 49, 53, 1);
-  display: flex !important;
-  flex-direction: row !important;
-}
-
-.coachingFooter {
-  background-color: rgba(108, 72, 0, 1);
-}
-
 .partnershipsFooter {
   background-color: #4f5c2b;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .appDevFooter {
   background-color: rgba(60, 3, 32, 1);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .aboutFooter {
   background-color: rgba(76, 93, 34, 1);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .askFooter {
   background-color: rgba(76, 93, 34, 1);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.quoralinkedintwittcopy {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: #fcfcfc;
+  text-align: left;
+  line-height: 24px;
+}
+
+.footerNav {
+  border: solid red;
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+}
+
+.a2512018boundlessprocopy {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: right;
+  line-height: 24px;
+}
+.a2512018boundlessprocopy .span1 {
+}
+.a2512018boundlessprocopy .span2 {
+  font-family: "BarlowCondensed-Bold", Helvetica, Arial, serif;
+}
+.a2512018boundlessprocopy .span3 {
 }
