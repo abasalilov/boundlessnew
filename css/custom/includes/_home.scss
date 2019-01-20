@@ -114,5 +114,60 @@ hr {
   font-size: 26px;
   line-height: 56px;
   font-family: "Barlow Condensed", sans-serif !important;
-  margin-left: 10px;
+}
+
+.askboundless {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 5.3em;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  line-height: 1.05em;
+}
+
+.overadecade {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 5.3em;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  line-height: 1.05em;
+}
+
+.wevebeenbuilding {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  margin: 1rem 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  line-height: 31px;
+
+  .paraTop {
+    font-size: 1.6em;
+    font-family: "BarlowCondensed-Bold", Helvetica, Arial, serif;
+  }
+
+  .highlightLink {
+    font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+    line-height: 31px;
+    margin: 0.5rem 0;
+    text-decoration: underline;
+  }
 }
