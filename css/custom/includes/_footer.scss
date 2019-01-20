@@ -7,8 +7,6 @@
 
 .homeFooter {
   background-color: rgba(37, 49, 53, 1);
-  position: absolute;
-  bottom: 0;
   width: 100%;
   border: solid yellow;
 }
@@ -87,4 +85,20 @@
   font-family: "BarlowCondensed-Bold", Helvetica, Arial, serif;
 }
 .a2512018boundlessprocopy .span3 {
+}
+
+.footerContainer {
+  background-color: rgba(255, 255, 255, 0);
+  height: auto;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 5.3em;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  line-height: 1.05em;
+  max-width: 99%;
 }
