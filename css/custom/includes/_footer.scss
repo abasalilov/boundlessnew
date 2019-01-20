@@ -1,0 +1,37 @@
+.footer {
+  border: solid red 3px !important;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.homeFooter {
+  background-color: rgba(37, 49, 53, 1);
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.coachingFooter {
+  background-color: rgba(108, 72, 0, 1);
+}
+
+.partnershipsFooter {
+  background-color: #4f5c2b;
+}
+
+.appDevFooter {
+  background-color: rgba(60, 3, 32, 1);
+}
+
+.aboutFooter {
+  background-color: rgba(76, 93, 34, 1);
+}
+
+.askFooter {
+  background-color: rgba(76, 93, 34, 1);
+}
