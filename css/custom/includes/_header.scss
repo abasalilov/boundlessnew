@@ -1,0 +1,56 @@
+.navbar {
+  box-shadow: 1px 1px 3px $secondary;
+  opacity: 0.8;
+
+  .nav-item {
+    font-size: 1.2rem;
+    margin: 0;
+    font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  }
+}
+
+.nav-link {
+  color: $secondary !important;
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+
+  &:hover {
+    color: $secondary !important;
+  }
+}
+
+.homeHeader {
+  background-color: rgba(37, 49, 53, 1);
+}
+
+.coachingHeader {
+  background-color: rgba(108, 72, 0, 1);
+}
+
+.partnershipsHeader {
+  background-color: #4f5c2b;
+}
+
+.appDevHeader {
+  background-color: rgba(60, 3, 32, 1);
+}
+
+.aboutHeader {
+  background-color: rgba(76, 93, 34, 1);
+}
+
+.askHeader {
+  background-color: rgba(76, 93, 34, 1);
+}
+
+.boundless {
+  height: auto;
+  margin: 0;
+  -ms-transform: rotate(0deg); /* IE 9 */
+  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+  transform: rotate(0deg);
+  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
+  font-size: 48px;
+  color: rgba(252, 252, 252, 1);
+  text-align: left;
+  line-height: 90px;
+}

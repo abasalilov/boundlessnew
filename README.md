@@ -1,10 +1,7 @@
-# boundless
+# jekyll-bootstrap-4-minimal-starter
 
-1. Install the bundle:
+A (very) minimal [Jekyll](https://jekyllrb.com/) and [Bootstrap 4](https://getbootstrap.com/) starter template.
 
-   - gem install bundler
-   - bundle install
+Over-ride Bootstrap variables via the */css/custom_variables.scss* file.
 
-2. Serve
-
-   - bundle exec jekyll serve
+For more information see: [https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/)

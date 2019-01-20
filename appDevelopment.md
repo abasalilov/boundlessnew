@@ -1,5 +1,5 @@
 ---
-title: App Development
-permalink: "/development/"
-layout: default
+title: appDev
+permalink: "/app-development/"
+layout: appDevLayout
 ---
