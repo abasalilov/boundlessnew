@@ -10,11 +10,29 @@
       /* Chrome, Safari, Opera */
       transform: rotate(0deg);
     }
+
+    .row {
+      margin-bottom: 1rem;
+    }
+    .row .row {
+      margin-top: 1rem;
+      margin-bottom: 0;
+    }
+    [class*="col-"] {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+    }
+
+    hr {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
   </style>
   {% include head.html %}
 
   <body>
-    {% include headerNav.html %} {% include homeContent.html %} {% include
-    signup.html %} {% include footer.html%}
+    <div class="fluid-container">
+      {% include headerNav.html %} {% include homeContent.html %}
+    </div>
   </body>
 </html>
