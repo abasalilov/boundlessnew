@@ -3,14 +3,15 @@
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+  margin-left: 3rem;
 }
 
 img {
   min-height: 1px;
-  max-width: 98%;
+  max-width: 90%;
   position: absolute;
   top: 205px;
-  left: 9px;
+  left: 40px;
 }
 
 .helpingpeoplegrow {
@@ -43,19 +44,7 @@ img {
 }
 
 .topLine {
-  width: 93%;
-  margin-top: 6rem;
-  margin-bottom: 4rem;
-  position: relative;
-  min-height: 2px !important;
-  border-top-width: 2px !important;
-  border-image-width: 2px !important;
-  border-color: #424b4e !important;
-  left: 3.5%;
-}
-
-.midLine {
-  width: 82%;
+  width: 90%;
   margin-top: 4rem;
   margin-bottom: 4rem;
   position: relative;
@@ -63,7 +52,19 @@ img {
   border-top-width: 2px !important;
   border-image-width: 2px !important;
   border-color: #424b4e !important;
-  left: 9%;
+  left: 5%;
+}
+
+.midLine {
+  width: 83%;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  position: relative;
+  min-height: 2px !important;
+  border-top-width: 2px !important;
+  border-image-width: 2px !important;
+  border-color: #424b4e !important;
+  left: 8.5%;
 }
 
 .wevebeenbuilding {
