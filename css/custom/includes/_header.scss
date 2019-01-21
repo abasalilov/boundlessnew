@@ -60,13 +60,13 @@
 }
 
 .joinCopy {
+  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
   -ms-transform: rotate(0deg); /* IE 9 */
   -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  font-family: "BarlowCondensed-Regular", Helvetica, Arial, serif;
-  font-size: 28px;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: left;
 }
 
 .signUpCopy {
@@ -101,6 +101,7 @@
   border-right-color: #898f91 !important;
   border-top-color: #898f91 !important;
   border-style: solid;
+  margin-top: 1rem;
 }
 
 input:focus {
@@ -114,4 +115,5 @@ input:focus {
   font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif !important;
   font-size: 26px !important;
   border-radius: 0px !important;
+  margin-top: 1rem;
 }
