@@ -1,6 +1,6 @@
 ---
-title: Coaching
+title: coaching
 permalink: "/coaching/"
-layout: coaching
+layout: coachingLayout
 ---
 

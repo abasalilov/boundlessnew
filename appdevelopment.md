@@ -1,7 +1,6 @@
 ---
-title: App Development
+title: appDev
 permalink: "/app-development/"
 layout: appDevLayout
-nav_order: 3
 ---
 

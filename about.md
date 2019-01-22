@@ -1,6 +1,6 @@
 ---
-title: About
+title: about
 permalink: "/about/"
-layout: about
+layout: aboutLayout
 ---
 
