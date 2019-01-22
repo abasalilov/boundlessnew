@@ -8,15 +8,26 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: https://abasalilov.github.io
 email: info@getboundless.com
 description: Boundless
-baseurl: 
-url: 
-twitter_username: 
-github_username: 
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
-gems:
-- jekyll-feed
+sass:
+  style: compressed
+highlighter: rouge
+autoprefixer:
+  browsers:
+  - last 2 versions
+include:
+- _pages
 exclude:
 - Gemfile
 - Gemfile.lock
+- README.md
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+plugins:
+- jekyll-autoprefixer
