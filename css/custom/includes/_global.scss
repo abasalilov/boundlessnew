@@ -69,21 +69,6 @@
   transform: rotate(0deg);
 }
 
-.signUpCopy {
-  background-color: rgba(255, 255, 255, 0);
-  height: auto;
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-  -ms-transform: rotate(0deg); /* IE 9 */
-  -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
-  transform: rotate(0deg);
-  font-family: "BarlowCondensed-SemiBold", Helvetica, Arial, serif;
-  font-size: 6.3em;
-  color: rgba(255, 255, 255, 0.7);
-  text-align: left;
-  line-height: 1.05em;
-}
-
 .signupRow {
   font-size: 1rem !important;
   height: 58px;
@@ -116,4 +101,17 @@ input:focus {
   font-size: 26px !important;
   border-radius: 0px !important;
   margin-top: 1rem;
+}
+
+.midLineVP {
+  width: 83%;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  position: relative;
+  min-height: 2px !important;
+  border-top-width: 2px !important;
+  border-image-width: 2px !important;
+  border-color: #c0c2c3 !important;
+  left: 8.5%;
+  opacity: 0.3;
 }
