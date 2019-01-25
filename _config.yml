@@ -14,7 +14,7 @@ description: Boundless
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 sass:
-  style: compressed
+  sass_dir: css
 autoprefixer:
   browsers:
   - last 2 versions
@@ -31,5 +31,3 @@ plugins:
 gems:
 - jekyll-feed
 permalink: pretty
-sass:
-  sass_dir: css
