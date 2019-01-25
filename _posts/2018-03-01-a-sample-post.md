@@ -1,6 +1,7 @@
 ---
-layout: post
 title: A Sample Post
+date: 2018-03-01 00:00:00 -07:00
+layout: post
 summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
 ---
 

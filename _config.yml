@@ -1,20 +1,33 @@
-# Site settings
-title:
-email:
-author:
-description:
-url:
-
-# Build settings
-permalink: :title/
+---
+title: Boundless
+timezone: America/Phoenix
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: https://abasalilov.github.io
+email: info@getboundless.com
+description: Boundless
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown: kramdown
 sass:
-  sass_dir: css
-
-# Social icons
-show_social_icons: true
-github_username: someGithubUser
-twitter_username: someTwitterUser
-
-# plugins
-plugins: [jekyll-paginate]
-paginate: 3
+  style: compressed
+autoprefixer:
+  browsers:
+  - last 2 versions
+highlighter: rouge
+include:
+- _pages
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+plugins:
+- jekyll-autoprefixer
