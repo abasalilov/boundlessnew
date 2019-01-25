@@ -31,3 +31,6 @@ exclude:
 - vendor/ruby/
 plugins:
 - jekyll-autoprefixer
+markdown: kramdown
+gems:
+- jekyll-feed
