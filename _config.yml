@@ -31,3 +31,5 @@ plugins:
 gems:
 - jekyll-feed
 permalink: pretty
+sass:
+  sass_dir: css
