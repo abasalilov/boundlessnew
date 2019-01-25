@@ -12,6 +12,7 @@ url: https://abasalilov.github.io
 email: info@getboundless.com
 description: Boundless
 markdown_ext: markdown,mkdown,mkdn,mkd,md
+url: http://boundless.siteleaf.net
 markdown: kramdown
 sass:
   style: compressed
@@ -21,16 +22,14 @@ autoprefixer:
 highlighter: rouge
 include:
 - _pages
-exclude:
 - Gemfile
 - Gemfile.lock
+exclude:
+- node_modules
 - README.md
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
 plugins:
 - jekyll-autoprefixer
 markdown: kramdown
 gems:
 - jekyll-feed
+permalink: pretty
