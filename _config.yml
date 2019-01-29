@@ -12,10 +12,10 @@ email: info@boundless.com
 description: Boundless
 repository: abasalilov/boundlessnew
 plugins:
-  - jekyll-feed
-  - siteleaf
-  - jekyll-sitemap
-header_pages:
+- jekyll-feed
+- siteleaf
+- jekyll-sitemap
+header_pages: 
 exclude:
-  - node_modules
-  - update_boostrap.sh
+- node_modules
+- update_boostrap.sh
