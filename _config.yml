@@ -1,6 +1,6 @@
 ---
 title: Boundless
-timezone: America/Phoenix
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -8,26 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: http://boundless.siteleaf.net
-email: info@getboundless.com
+email: info@boundless.com
 description: Boundless
-markdown_ext: markdown,mkdown,mkdn,mkd,md
-markdown: kramdown
-sass:
-  sass_dir: css
-autoprefixer:
-  browsers:
-  - last 2 versions
-highlighter: rouge
-include:
-- _pages
-- Gemfile
-- Gemfile.lock
-exclude:
-- node_modules
-- README.md
+repository: abasalilov/boundlessnew
 plugins:
-- jekyll-autoprefixer
-gems:
-- jekyll-feed
-permalink: pretty
+  - jekyll-feed
+  - siteleaf
+  - jekyll-sitemap
+header_pages:
+exclude:
+  - node_modules
+  - update_boostrap.sh

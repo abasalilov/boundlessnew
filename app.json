@@ -1,7 +1,0 @@
-{
-  "name": "BS4 = Node.js",
-  "description": "boundless new",
-  "repository": "https://github.com/abasalilov/boundlessnew.git",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
-}

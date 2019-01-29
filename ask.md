@@ -1,6 +1,6 @@
 ---
 title: ask
 permalink: "/ask/"
-layout: askLayout
+layout: askPage
 ---
 

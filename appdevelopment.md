@@ -1,6 +1,6 @@
 ---
-title: app-development
+title: appDev
 permalink: "/app-development/"
-layout: appDevLayout
+layout: appDevPage
 ---
 
